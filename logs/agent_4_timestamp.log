@@ -1,0 +1,1334 @@
+2025-06-05 15:06:56,023 [Agent 4] INFO: Connecting to gRPC server at 172.22.9.141:30561
+2025-06-05 15:06:56,024 [Agent 4] INFO: FPS - Send: 0, Result: 0
+2025-06-05 15:06:56,049 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.048820136+00:00"}"
+>
+2025-06-05 15:06:56,110 [Agent 4] INFO: Slot Drift: -0.307 ms | Send Time: 2025-06-05T15:06:56.074379, Receive Time: 2025-06-05T15:06:56.110256, Latency: 35.84 ms
+2025-06-05 15:06:56,143 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.143823145+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,210 [Agent 4] INFO: Slot Drift: 0.536 ms | Send Time: 2025-06-05T15:06:56.175224, Receive Time: 2025-06-05T15:06:56.210422, Latency: 35.14 ms
+2025-06-05 15:06:56,243 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.243383975+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,299 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.299350779+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,360 [Agent 4] INFO: Slot Drift: 0.070 ms | Send Time: 2025-06-05T15:06:56.324755, Receive Time: 2025-06-05T15:06:56.360775, Latency: 35.99 ms
+2025-06-05 15:06:56,395 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.395154232+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,459 [Agent 4] INFO: Slot Drift: -0.033 ms | Send Time: 2025-06-05T15:06:56.424654, Receive Time: 2025-06-05T15:06:56.459234, Latency: 34.54 ms
+2025-06-05 15:06:56,494 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.493964234+00:00"}"
+>
+2025-06-05 15:06:56,554 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.554451906+00:00"}"
+>
+2025-06-05 15:06:56,597 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.597599721+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,663 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.663645145+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,697 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.697171058+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,762 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.762407541+00:00"}"
+>
+2025-06-05 15:06:56,797 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.797104287+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,863 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.863420668+00:00"}"
+>
+2025-06-05 15:06:56,898 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.897878168+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:56,965 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.965225752+00:00"}"
+>
+2025-06-05 15:06:57,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.00337504+00:00"}"
+>
+2025-06-05 15:06:57,024 [Agent 4] INFO: FPS - Send: 20, Result: 4
+2025-06-05 15:06:57,048 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.048516867+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,098 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.098421014+00:00"}"
+>
+2025-06-05 15:06:57,146 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.146278746+00:00"}"
+>
+2025-06-05 15:06:57,208 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.208570513+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,258 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.258835502+00:00"}"
+>
+2025-06-05 15:06:57,309 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.309834465+00:00"}"
+>
+2025-06-05 15:06:57,357 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.357723825+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,408 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.408636959+00:00"}"
+>
+2025-06-05 15:06:57,458 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.458532256+00:00"}"
+>
+2025-06-05 15:06:57,508 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.50865523+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,560 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.560761573+00:00"}"
+>
+2025-06-05 15:06:57,604 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.604168461+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,652 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.652132931+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,702 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.702218304+00:00"}"
+>
+2025-06-05 15:06:57,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.752922471+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,802 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.801792206+00:00"}"
+>
+2025-06-05 15:06:57,853 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.853339426+00:00"}"
+>
+2025-06-05 15:06:57,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.904389682+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:57,955 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.955487492+00:00"}"
+>
+2025-06-05 15:06:58,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.003720402+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,024 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:06:58,052 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.052272805+00:00"}"
+>
+2025-06-05 15:06:58,104 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.104392873+00:00"}"
+>
+2025-06-05 15:06:58,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.153167752+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,203 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.202979101+00:00"}"
+>
+2025-06-05 15:06:58,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.253630724+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,304 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.303936909+00:00"}"
+>
+2025-06-05 15:06:58,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.353761028+00:00"}"
+>
+2025-06-05 15:06:58,402 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.402397458+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,455 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.454967808+00:00"}"
+>
+2025-06-05 15:06:58,505 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.505171774+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,554 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.553851862+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,606 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.605472984+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,656 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.656334572+00:00"}"
+>
+2025-06-05 15:06:58,705 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.705221953+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,756 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.756081922+00:00"}"
+>
+2025-06-05 15:06:58,804 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.803658024+00:00"}"
+>
+2025-06-05 15:06:58,853 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.853662183+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.904343032+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:58,955 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.954978311+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.003444659+00:00"}"
+>
+2025-06-05 15:06:59,024 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:06:59,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.052905896+00:00"}"
+>
+2025-06-05 15:06:59,103 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.103176116+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.153689776+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,203 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.203052653+00:00"}"
+>
+2025-06-05 15:06:59,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.253785939+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.303665129+00:00"}"
+>
+2025-06-05 15:06:59,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.353367231+00:00"}"
+>
+2025-06-05 15:06:59,405 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.405099017+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,453 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.453497926+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,503 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.503696975+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,552 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.552756869+00:00"}"
+>
+2025-06-05 15:06:59,604 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.603938365+00:00"}"
+>
+2025-06-05 15:06:59,653 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.653078434+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,703 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.703348787+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,755 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.755135836+00:00"}"
+>
+2025-06-05 15:06:59,803 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.803790427+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:06:59,854 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.853776256+00:00"}"
+>
+2025-06-05 15:06:59,903 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.903637373+00:00"}"
+>
+2025-06-05 15:06:59,953 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.953201129+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.003772165+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,024 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:00,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.053302591+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,103 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.103703513+00:00"}"
+>
+2025-06-05 15:07:00,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.152951039+00:00"}"
+>
+2025-06-05 15:07:00,204 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.204259854+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.2532438+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.303589669+00:00"}"
+>
+2025-06-05 15:07:00,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.353469836+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.403375433+00:00"}"
+>
+2025-06-05 15:07:00,454 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.454830978+00:00"}"
+>
+2025-06-05 15:07:00,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.502577698+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,554 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.554842937+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,602 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.602664379+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,652 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.652204669+00:00"}"
+>
+2025-06-05 15:07:00,704 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.70395244+00:00"}"
+>
+2025-06-05 15:07:00,754 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.754133019+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,802 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.802669248+00:00"}"
+>
+2025-06-05 15:07:00,852 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.852446081+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:00,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.903864624+00:00"}"
+>
+2025-06-05 15:07:00,954 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.954388259+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.003276736+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,024 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:01,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.053250218+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,104 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.104745488+00:00"}"
+>
+2025-06-05 15:07:01,152 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.15253441+00:00"}"
+>
+2025-06-05 15:07:01,203 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.203736183+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.25333329+00:00"}"
+>
+2025-06-05 15:07:01,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.303102105+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.353572721+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.403727509+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,454 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.454516551+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.502376257+00:00"}"
+>
+2025-06-05 15:07:01,553 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.553322462+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,604 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.604260544+00:00"}"
+>
+2025-06-05 15:07:01,654 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.654243267+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,705 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.704803053+00:00"}"
+>
+2025-06-05 15:07:01,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.753169084+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,803 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.803042089+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,852 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.852493253+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:01,905 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.904943137+00:00"}"
+>
+2025-06-05 15:07:01,955 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.955150195+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.003758856+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:02,052 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.052133329+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,104 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.104051644+00:00"}"
+>
+2025-06-05 15:07:02,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.153371214+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,202 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.202670681+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.253620287+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,302 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.302778096+00:00"}"
+>
+2025-06-05 15:07:02,354 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.353887935+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.402931481+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,453 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.452821074+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,504 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.5041705+00:00"}"
+>
+2025-06-05 15:07:02,553 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.552960309+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,604 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.604353312+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,653 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.653290743+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,704 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.703938787+00:00"}"
+>
+2025-06-05 15:07:02,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.753694379+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,804 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.804385557+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,854 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.854601752+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:02,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.904155871+00:00"}"
+>
+2025-06-05 15:07:02,952 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:02.952519049+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,002 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.002695721+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,025 [Agent 4] INFO: FPS - Send: 21, Result: 0
+2025-06-05 15:07:03,054 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.054494513+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,102 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.102061466+00:00"}"
+>
+2025-06-05 15:07:03,154 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.154405167+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,204 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.203914154+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,254 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.253853002+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,302 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.302202348+00:00"}"
+>
+2025-06-05 15:07:03,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.353160057+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.403352543+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,453 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.453176601+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.502412418+00:00"}"
+>
+2025-06-05 15:07:03,555 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.554919922+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,604 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.604153969+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,653 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.653774943+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,704 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.70445723+00:00"}"
+>
+2025-06-05 15:07:03,754 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.75410829+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,803 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.803370454+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,856 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.855956394+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:03,902 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.902649904+00:00"}"
+>
+2025-06-05 15:07:03,954 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.954149305+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.003694758+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:04,052 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.052625287+00:00"}"
+>
+2025-06-05 15:07:04,104 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.104081977+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.152819736+00:00"}"
+>
+2025-06-05 15:07:04,204 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.204375176+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.253296061+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.303340022+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,354 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.354101883+00:00"}"
+>
+2025-06-05 15:07:04,402 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.402816037+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,453 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.453292542+00:00"}"
+>
+2025-06-05 15:07:04,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.502273273+00:00"}"
+>
+2025-06-05 15:07:04,553 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.553462241+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,603 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.603688214+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,654 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.65389873+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,703 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.703390732+00:00"}"
+>
+2025-06-05 15:07:04,752 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.751853192+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,802 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.801928785+00:00"}"
+>
+2025-06-05 15:07:04,852 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.852772318+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:04,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.903971796+00:00"}"
+>
+2025-06-05 15:07:04,955 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.955164904+00:00"}"
+>
+2025-06-05 15:07:05,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.00365195+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:05,054 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.054146834+00:00"}"
+>
+2025-06-05 15:07:05,102 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.102512936+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.153399761+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,202 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.202126767+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.253270403+00:00"}"
+>
+2025-06-05 15:07:05,304 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.304094642+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.353758173+00:00"}"
+>
+2025-06-05 15:07:05,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.403589996+00:00"}"
+>
+2025-06-05 15:07:05,454 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.45415832+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.502375606+00:00"}"
+>
+2025-06-05 15:07:05,554 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.554425179+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,605 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.604916667+00:00"}"
+>
+2025-06-05 15:07:05,652 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.652556241+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,703 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.70358578+00:00"}"
+>
+2025-06-05 15:07:05,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.753735646+00:00"}"
+>
+2025-06-05 15:07:05,803 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.803778397+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,853 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.853053788+00:00"}"
+>
+2025-06-05 15:07:05,902 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.902701727+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:05,954 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.954290033+00:00"}"
+>
+2025-06-05 15:07:06,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.003709718+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:06,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.052980425+00:00"}"
+>
+2025-06-05 15:07:06,102 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.102115339+00:00"}"
+>
+2025-06-05 15:07:06,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.152909641+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,203 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.203096987+00:00"}"
+>
+2025-06-05 15:07:06,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.253398592+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.303536511+00:00"}"
+>
+2025-06-05 15:07:06,352 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.352453536+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.403276005+00:00"}"
+>
+2025-06-05 15:07:06,454 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.453922175+00:00"}"
+>
+2025-06-05 15:07:06,503 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.502962953+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,553 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.553759597+00:00"}"
+>
+2025-06-05 15:07:06,602 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.602691705+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,653 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.653003774+00:00"}"
+>
+2025-06-05 15:07:06,703 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.703533876+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.753688146+00:00"}"
+>
+2025-06-05 15:07:06,802 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.802686636+00:00"}"
+>
+2025-06-05 15:07:06,854 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.854397121+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:06,902 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.90280082+00:00"}"
+>
+2025-06-05 15:07:06,954 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.954220192+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,005 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.004928134+00:00"}"
+>
+2025-06-05 15:07:07,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:07,054 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.054365101+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,104 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.104803277+00:00"}"
+>
+2025-06-05 15:07:07,153 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.152951148+00:00"}"
+>
+2025-06-05 15:07:07,204 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.203837384+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,252 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.252254228+00:00"}"
+>
+2025-06-05 15:07:07,302 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.302267657+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.352890663+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,403 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.403470458+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,453 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.453443233+00:00"}"
+>
+2025-06-05 15:07:07,502 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.502079129+00:00"}"
+>
+2025-06-05 15:07:07,555 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.555065679+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,603 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.603531777+00:00"}"
+>
+2025-06-05 15:07:07,652 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.65280542+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,703 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.702919384+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,753 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.752885702+00:00"}"
+>
+2025-06-05 15:07:07,803 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.803141686+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:07,852 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.85236635+00:00"}"
+>
+2025-06-05 15:07:07,904 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.90464724+00:00"}"
+>
+2025-06-05 15:07:07,953 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.95277363+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.003174145+00:00"}"
+>
+2025-06-05 15:07:08,025 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:08,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.053283131+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,102 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.102390315+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,152 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.15212444+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,203 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.203389251+00:00"}"
+>
+2025-06-05 15:07:08,257 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.256759142+00:00"}"
+>
+2025-06-05 15:07:08,303 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.303351923+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,353 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.353761765+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,404 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.404481154+00:00"}"
+>
+2025-06-05 15:07:08,455 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.454837889+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,504 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.503840507+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,554 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.553901974+00:00"}"
+>
+2025-06-05 15:07:08,602 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.60207379+00:00"}"
+>
+2025-06-05 15:07:08,652 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.652730915+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,702 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.702537118+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,754 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.754098817+00:00"}"
+>
+2025-06-05 15:07:08,805 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.804372515+00:00"}"
+>
+2025-06-05 15:07:08,852 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.85221322+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,905 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.905502091+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:08,952 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.9525335+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:09,003 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.003052787+00:00"}"
+>
+2025-06-05 15:07:09,026 [Agent 4] INFO: FPS - Send: 20, Result: 0
+2025-06-05 15:07:09,053 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:09.053163074+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:09,102 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.102823211+00:00"}"
+>
+2025-06-05 15:07:09,152 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:09.152334012+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:09,202 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.202230277+00:00"}"
+>
+2025-06-05 15:07:09,253 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:09.25293471+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
+2025-06-05 15:07:09,304 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.304208488+00:00"}"
+>
+2025-06-05 15:07:09,352 [Agent 4] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:09.352500549+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
+>
