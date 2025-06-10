@@ -1,0 +1,145 @@
+2025-06-06 19:17:41,076 [Agent 9] INFO: Connecting to gRPC server at 172.22.9.141:30561
+2025-06-06 19:17:41,077 [Agent 9] INFO: FPS - Send: 0, Result: 0
+2025-06-06 19:17:41,077 [Agent 9] INFO: Waiting 3.922s for base time alignment...
+2025-06-06 19:17:42,078 [Agent 9] INFO: FPS - Send: 0, Result: 0
+2025-06-06 19:17:43,079 [Agent 9] INFO: FPS - Send: 0, Result: 0
+2025-06-06 19:17:44,081 [Agent 9] INFO: FPS - Send: 0, Result: 0
+2025-06-06 19:17:45,055 [Agent 9] INFO: Slot Drift: -49.999 ms | Send Time: 2025-06-06T19:17:45.000243, Receive Time: 2025-06-06T19:17:45.055093, Latency: 54.67 ms
+2025-06-06 19:17:45,081 [Agent 9] INFO: FPS - Send: 1, Result: 1
+2025-06-06 19:17:45,148 [Agent 9] INFO: Slot Drift: 0.861 ms | Send Time: 2025-06-06T19:17:45.117769, Receive Time: 2025-06-06T19:17:45.148544, Latency: 30.74 ms
+2025-06-06 19:17:45,215 [Agent 9] INFO: Slot Drift: 0.325 ms | Send Time: 2025-06-06T19:17:45.183899, Receive Time: 2025-06-06T19:17:45.215056, Latency: 31.12 ms
+2025-06-06 19:17:45,281 [Agent 9] INFO: Slot Drift: 0.151 ms | Send Time: 2025-06-06T19:17:45.250392, Receive Time: 2025-06-06T19:17:45.281142, Latency: 30.71 ms
+2025-06-06 19:17:45,348 [Agent 9] INFO: Slot Drift: 0.531 ms | Send Time: 2025-06-06T19:17:45.317438, Receive Time: 2025-06-06T19:17:45.347998, Latency: 30.53 ms
+2025-06-06 19:17:45,414 [Agent 9] INFO: Slot Drift: -0.289 ms | Send Time: 2025-06-06T19:17:45.383287, Receive Time: 2025-06-06T19:17:45.414037, Latency: 30.71 ms
+2025-06-06 19:17:45,482 [Agent 9] INFO: Slot Drift: 0.094 ms | Send Time: 2025-06-06T19:17:45.450335, Receive Time: 2025-06-06T19:17:45.482814, Latency: 32.44 ms
+2025-06-06 19:17:45,549 [Agent 9] INFO: Slot Drift: 0.167 ms | Send Time: 2025-06-06T19:17:45.517075, Receive Time: 2025-06-06T19:17:45.548997, Latency: 31.89 ms
+2025-06-06 19:17:45,615 [Agent 9] INFO: Slot Drift: -0.273 ms | Send Time: 2025-06-06T19:17:45.583301, Receive Time: 2025-06-06T19:17:45.615637, Latency: 32.30 ms
+2025-06-06 19:17:45,681 [Agent 9] INFO: Slot Drift: -0.251 ms | Send Time: 2025-06-06T19:17:45.649991, Receive Time: 2025-06-06T19:17:45.681755, Latency: 31.72 ms
+2025-06-06 19:17:45,749 [Agent 9] INFO: Slot Drift: 0.135 ms | Send Time: 2025-06-06T19:17:45.717043, Receive Time: 2025-06-06T19:17:45.749718, Latency: 32.64 ms
+2025-06-06 19:17:45,819 [Agent 9] INFO: Slot Drift: 0.484 ms | Send Time: 2025-06-06T19:17:45.784059, Receive Time: 2025-06-06T19:17:45.819145, Latency: 35.04 ms
+2025-06-06 19:17:45,884 [Agent 9] INFO: Slot Drift: 0.274 ms | Send Time: 2025-06-06T19:17:45.850517, Receive Time: 2025-06-06T19:17:45.884626, Latency: 34.04 ms
+2025-06-06 19:17:45,950 [Agent 9] INFO: Slot Drift: 0.692 ms | Send Time: 2025-06-06T19:17:45.917605, Receive Time: 2025-06-06T19:17:45.950074, Latency: 32.37 ms
+2025-06-06 19:17:46,016 [Agent 9] INFO: Slot Drift: -0.229 ms | Send Time: 2025-06-06T19:17:45.983347, Receive Time: 2025-06-06T19:17:46.016590, Latency: 33.21 ms
+2025-06-06 19:17:46,082 [Agent 9] INFO: FPS - Send: 15, Result: 14
+2025-06-06 19:17:46,082 [Agent 9] INFO: Slot Drift: -0.320 ms | Send Time: 2025-06-06T19:17:46.049921, Receive Time: 2025-06-06T19:17:46.082704, Latency: 32.74 ms
+2025-06-06 19:17:46,149 [Agent 9] INFO: Slot Drift: 0.063 ms | Send Time: 2025-06-06T19:17:46.116973, Receive Time: 2025-06-06T19:17:46.149098, Latency: 32.08 ms
+2025-06-06 19:17:46,218 [Agent 9] INFO: Slot Drift: -0.099 ms | Send Time: 2025-06-06T19:17:46.183477, Receive Time: 2025-06-06T19:17:46.218533, Latency: 35.01 ms
+2025-06-06 19:17:46,284 [Agent 9] INFO: Slot Drift: 0.614 ms | Send Time: 2025-06-06T19:17:46.250855, Receive Time: 2025-06-06T19:17:46.284166, Latency: 33.27 ms
+2025-06-06 19:17:46,348 [Agent 9] INFO: Slot Drift: 0.549 ms | Send Time: 2025-06-06T19:17:46.317457, Receive Time: 2025-06-06T19:17:46.348894, Latency: 31.40 ms
+2025-06-06 19:17:46,415 [Agent 9] INFO: Slot Drift: 0.612 ms | Send Time: 2025-06-06T19:17:46.384186, Receive Time: 2025-06-06T19:17:46.415391, Latency: 31.17 ms
+2025-06-06 19:17:46,483 [Agent 9] INFO: Slot Drift: 0.470 ms | Send Time: 2025-06-06T19:17:46.450712, Receive Time: 2025-06-06T19:17:46.483276, Latency: 32.53 ms
+2025-06-06 19:17:46,551 [Agent 9] INFO: Slot Drift: -0.338 ms | Send Time: 2025-06-06T19:17:46.516569, Receive Time: 2025-06-06T19:17:46.551110, Latency: 34.51 ms
+2025-06-06 19:17:46,616 [Agent 9] INFO: Slot Drift: -0.188 ms | Send Time: 2025-06-06T19:17:46.583387, Receive Time: 2025-06-06T19:17:46.616892, Latency: 33.47 ms
+2025-06-06 19:17:46,683 [Agent 9] INFO: Slot Drift: -0.069 ms | Send Time: 2025-06-06T19:17:46.650172, Receive Time: 2025-06-06T19:17:46.683338, Latency: 33.13 ms
+2025-06-06 19:17:46,748 [Agent 9] INFO: Slot Drift: -0.294 ms | Send Time: 2025-06-06T19:17:46.716614, Receive Time: 2025-06-06T19:17:46.748959, Latency: 32.31 ms
+2025-06-06 19:17:46,817 [Agent 9] INFO: Slot Drift: -0.287 ms | Send Time: 2025-06-06T19:17:46.783287, Receive Time: 2025-06-06T19:17:46.817634, Latency: 34.31 ms
+2025-06-06 19:17:46,881 [Agent 9] INFO: Slot Drift: -0.287 ms | Send Time: 2025-06-06T19:17:46.849955, Receive Time: 2025-06-06T19:17:46.881381, Latency: 31.39 ms
+2025-06-06 19:17:46,949 [Agent 9] INFO: Slot Drift: -0.225 ms | Send Time: 2025-06-06T19:17:46.916685, Receive Time: 2025-06-06T19:17:46.949646, Latency: 32.91 ms
+2025-06-06 19:17:47,015 [Agent 9] INFO: Slot Drift: 0.350 ms | Send Time: 2025-06-06T19:17:46.983924, Receive Time: 2025-06-06T19:17:47.015295, Latency: 31.33 ms
+2025-06-06 19:17:47,082 [Agent 9] INFO: Slot Drift: 0.367 ms | Send Time: 2025-06-06T19:17:47.050608, Receive Time: 2025-06-06T19:17:47.082214, Latency: 31.57 ms
+2025-06-06 19:17:47,082 [Agent 9] INFO: FPS - Send: 15, Result: 16
+2025-06-06 19:17:47,150 [Agent 9] INFO: Slot Drift: -0.001 ms | Send Time: 2025-06-06T19:17:47.116910, Receive Time: 2025-06-06T19:17:47.147035, Latency: 30.06 ms
+2025-06-06 19:17:47,209 [Agent 9] INFO: Slot Drift: -0.136 ms | Send Time: 2025-06-06T19:17:47.183441, Receive Time: 2025-06-06T19:17:47.209025, Latency: 25.50 ms
+2025-06-06 19:17:47,281 [Agent 9] INFO: Slot Drift: 0.407 ms | Send Time: 2025-06-06T19:17:47.250648, Receive Time: 2025-06-06T19:17:47.281628, Latency: 30.94 ms
+2025-06-06 19:17:47,348 [Agent 9] INFO: Slot Drift: 0.083 ms | Send Time: 2025-06-06T19:17:47.316992, Receive Time: 2025-06-06T19:17:47.348002, Latency: 30.97 ms
+2025-06-06 19:17:47,415 [Agent 9] INFO: Slot Drift: -0.196 ms | Send Time: 2025-06-06T19:17:47.383378, Receive Time: 2025-06-06T19:17:47.415671, Latency: 32.25 ms
+2025-06-06 19:17:47,482 [Agent 9] INFO: Slot Drift: -0.268 ms | Send Time: 2025-06-06T19:17:47.449974, Receive Time: 2025-06-06T19:17:47.482653, Latency: 32.64 ms
+2025-06-06 19:17:47,549 [Agent 9] INFO: Slot Drift: 0.195 ms | Send Time: 2025-06-06T19:17:47.517104, Receive Time: 2025-06-06T19:17:47.549111, Latency: 31.97 ms
+2025-06-06 19:17:47,617 [Agent 9] INFO: Slot Drift: -0.147 ms | Send Time: 2025-06-06T19:17:47.583428, Receive Time: 2025-06-06T19:17:47.617177, Latency: 33.71 ms
+2025-06-06 19:17:47,681 [Agent 9] INFO: Slot Drift: 0.211 ms | Send Time: 2025-06-06T19:17:47.650452, Receive Time: 2025-06-06T19:17:47.681564, Latency: 31.07 ms
+2025-06-06 19:17:47,748 [Agent 9] INFO: Slot Drift: 0.479 ms | Send Time: 2025-06-06T19:17:47.717392, Receive Time: 2025-06-06T19:17:47.748635, Latency: 31.14 ms
+2025-06-06 19:17:47,816 [Agent 9] INFO: Slot Drift: -0.319 ms | Send Time: 2025-06-06T19:17:47.783258, Receive Time: 2025-06-06T19:17:47.816900, Latency: 33.45 ms
+2025-06-06 19:17:47,882 [Agent 9] INFO: Slot Drift: 0.212 ms | Send Time: 2025-06-06T19:17:47.850454, Receive Time: 2025-06-06T19:17:47.882391, Latency: 31.89 ms
+2025-06-06 19:17:47,948 [Agent 9] INFO: Slot Drift: -0.055 ms | Send Time: 2025-06-06T19:17:47.916854, Receive Time: 2025-06-06T19:17:47.948739, Latency: 31.84 ms
+2025-06-06 19:17:48,015 [Agent 9] INFO: Slot Drift: 0.422 ms | Send Time: 2025-06-06T19:17:47.983998, Receive Time: 2025-06-06T19:17:48.015523, Latency: 31.48 ms
+2025-06-06 19:17:48,081 [Agent 9] INFO: Slot Drift: 0.565 ms | Send Time: 2025-06-06T19:17:48.050805, Receive Time: 2025-06-06T19:17:48.081646, Latency: 30.80 ms
+2025-06-06 19:17:48,082 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:48,148 [Agent 9] INFO: Slot Drift: 0.184 ms | Send Time: 2025-06-06T19:17:48.117092, Receive Time: 2025-06-06T19:17:48.148695, Latency: 31.57 ms
+2025-06-06 19:17:48,213 [Agent 9] INFO: Slot Drift: 0.386 ms | Send Time: 2025-06-06T19:17:48.183961, Receive Time: 2025-06-06T19:17:48.213682, Latency: 29.69 ms
+2025-06-06 19:17:48,281 [Agent 9] INFO: Slot Drift: -0.283 ms | Send Time: 2025-06-06T19:17:48.249959, Receive Time: 2025-06-06T19:17:48.281531, Latency: 31.54 ms
+2025-06-06 19:17:48,347 [Agent 9] INFO: Slot Drift: -0.095 ms | Send Time: 2025-06-06T19:17:48.316814, Receive Time: 2025-06-06T19:17:48.347288, Latency: 30.43 ms
+2025-06-06 19:17:48,415 [Agent 9] INFO: Slot Drift: -0.021 ms | Send Time: 2025-06-06T19:17:48.383554, Receive Time: 2025-06-06T19:17:48.415616, Latency: 32.02 ms
+2025-06-06 19:17:48,480 [Agent 9] INFO: Slot Drift: -0.339 ms | Send Time: 2025-06-06T19:17:48.449905, Receive Time: 2025-06-06T19:17:48.480818, Latency: 30.84 ms
+2025-06-06 19:17:48,549 [Agent 9] INFO: Slot Drift: 0.401 ms | Send Time: 2025-06-06T19:17:48.517310, Receive Time: 2025-06-06T19:17:48.549104, Latency: 31.73 ms
+2025-06-06 19:17:48,614 [Agent 9] INFO: Slot Drift: 0.124 ms | Send Time: 2025-06-06T19:17:48.583701, Receive Time: 2025-06-06T19:17:48.614640, Latency: 30.87 ms
+2025-06-06 19:17:48,682 [Agent 9] INFO: Slot Drift: 0.293 ms | Send Time: 2025-06-06T19:17:48.650539, Receive Time: 2025-06-06T19:17:48.682344, Latency: 31.71 ms
+2025-06-06 19:17:48,747 [Agent 9] INFO: Slot Drift: 0.609 ms | Send Time: 2025-06-06T19:17:48.717523, Receive Time: 2025-06-06T19:17:48.747056, Latency: 29.43 ms
+2025-06-06 19:17:48,817 [Agent 9] INFO: Slot Drift: 0.394 ms | Send Time: 2025-06-06T19:17:48.783976, Receive Time: 2025-06-06T19:17:48.817142, Latency: 33.04 ms
+2025-06-06 19:17:48,882 [Agent 9] INFO: Slot Drift: -0.198 ms | Send Time: 2025-06-06T19:17:48.850047, Receive Time: 2025-06-06T19:17:48.882642, Latency: 32.51 ms
+2025-06-06 19:17:48,949 [Agent 9] INFO: Slot Drift: 0.204 ms | Send Time: 2025-06-06T19:17:48.917114, Receive Time: 2025-06-06T19:17:48.949194, Latency: 32.02 ms
+2025-06-06 19:17:49,013 [Agent 9] INFO: Slot Drift: -0.015 ms | Send Time: 2025-06-06T19:17:48.983560, Receive Time: 2025-06-06T19:17:49.013404, Latency: 29.81 ms
+2025-06-06 19:17:49,082 [Agent 9] INFO: Slot Drift: 0.454 ms | Send Time: 2025-06-06T19:17:49.050695, Receive Time: 2025-06-06T19:17:49.082294, Latency: 31.56 ms
+2025-06-06 19:17:49,083 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:49,148 [Agent 9] INFO: Slot Drift: -0.300 ms | Send Time: 2025-06-06T19:17:49.116614, Receive Time: 2025-06-06T19:17:49.148380, Latency: 31.67 ms
+2025-06-06 19:17:49,215 [Agent 9] INFO: Slot Drift: 0.197 ms | Send Time: 2025-06-06T19:17:49.183773, Receive Time: 2025-06-06T19:17:49.215801, Latency: 31.97 ms
+2025-06-06 19:17:49,281 [Agent 9] INFO: Slot Drift: -0.116 ms | Send Time: 2025-06-06T19:17:49.250127, Receive Time: 2025-06-06T19:17:49.281383, Latency: 31.21 ms
+2025-06-06 19:17:49,348 [Agent 9] INFO: Slot Drift: -0.245 ms | Send Time: 2025-06-06T19:17:49.316663, Receive Time: 2025-06-06T19:17:49.348351, Latency: 31.65 ms
+2025-06-06 19:17:49,414 [Agent 9] INFO: Slot Drift: 0.116 ms | Send Time: 2025-06-06T19:17:49.383691, Receive Time: 2025-06-06T19:17:49.414835, Latency: 31.10 ms
+2025-06-06 19:17:49,479 [Agent 9] INFO: Slot Drift: -0.156 ms | Send Time: 2025-06-06T19:17:49.450085, Receive Time: 2025-06-06T19:17:49.479325, Latency: 29.20 ms
+2025-06-06 19:17:49,548 [Agent 9] INFO: Slot Drift: -0.317 ms | Send Time: 2025-06-06T19:17:49.516591, Receive Time: 2025-06-06T19:17:49.548505, Latency: 31.88 ms
+2025-06-06 19:17:49,613 [Agent 9] INFO: Slot Drift: 0.242 ms | Send Time: 2025-06-06T19:17:49.583818, Receive Time: 2025-06-06T19:17:49.613793, Latency: 29.93 ms
+2025-06-06 19:17:49,682 [Agent 9] INFO: Slot Drift: -0.172 ms | Send Time: 2025-06-06T19:17:49.650070, Receive Time: 2025-06-06T19:17:49.682790, Latency: 32.68 ms
+2025-06-06 19:17:49,750 [Agent 9] INFO: Slot Drift: 0.151 ms | Send Time: 2025-06-06T19:17:49.717059, Receive Time: 2025-06-06T19:17:49.749992, Latency: 32.90 ms
+2025-06-06 19:17:49,814 [Agent 9] INFO: Slot Drift: -0.334 ms | Send Time: 2025-06-06T19:17:49.783240, Receive Time: 2025-06-06T19:17:49.814626, Latency: 31.35 ms
+2025-06-06 19:17:49,881 [Agent 9] INFO: Slot Drift: -0.298 ms | Send Time: 2025-06-06T19:17:49.849943, Receive Time: 2025-06-06T19:17:49.881719, Latency: 31.74 ms
+2025-06-06 19:17:49,948 [Agent 9] INFO: Slot Drift: 0.115 ms | Send Time: 2025-06-06T19:17:49.917023, Receive Time: 2025-06-06T19:17:49.948741, Latency: 31.68 ms
+2025-06-06 19:17:50,014 [Agent 9] INFO: Slot Drift: 0.470 ms | Send Time: 2025-06-06T19:17:49.984045, Receive Time: 2025-06-06T19:17:50.014786, Latency: 30.71 ms
+2025-06-06 19:17:50,081 [Agent 9] INFO: Slot Drift: -0.135 ms | Send Time: 2025-06-06T19:17:50.050106, Receive Time: 2025-06-06T19:17:50.081624, Latency: 31.48 ms
+2025-06-06 19:17:50,083 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:50,150 [Agent 9] INFO: Slot Drift: 0.387 ms | Send Time: 2025-06-06T19:17:50.117301, Receive Time: 2025-06-06T19:17:50.150777, Latency: 33.37 ms
+2025-06-06 19:17:50,215 [Agent 9] INFO: Slot Drift: 0.005 ms | Send Time: 2025-06-06T19:17:50.183588, Receive Time: 2025-06-06T19:17:50.215302, Latency: 31.59 ms
+2025-06-06 19:17:50,280 [Agent 9] INFO: Slot Drift: 0.445 ms | Send Time: 2025-06-06T19:17:50.250686, Receive Time: 2025-06-06T19:17:50.280767, Latency: 30.03 ms
+2025-06-06 19:17:50,348 [Agent 9] INFO: Slot Drift: 0.175 ms | Send Time: 2025-06-06T19:17:50.317084, Receive Time: 2025-06-06T19:17:50.348264, Latency: 31.13 ms
+2025-06-06 19:17:50,415 [Agent 9] INFO: Slot Drift: -0.024 ms | Send Time: 2025-06-06T19:17:50.383553, Receive Time: 2025-06-06T19:17:50.415321, Latency: 31.71 ms
+2025-06-06 19:17:50,482 [Agent 9] INFO: Slot Drift: 0.395 ms | Send Time: 2025-06-06T19:17:50.450636, Receive Time: 2025-06-06T19:17:50.482315, Latency: 31.64 ms
+2025-06-06 19:17:50,549 [Agent 9] INFO: Slot Drift: -0.212 ms | Send Time: 2025-06-06T19:17:50.516695, Receive Time: 2025-06-06T19:17:50.549563, Latency: 32.83 ms
+2025-06-06 19:17:50,615 [Agent 9] INFO: Slot Drift: 0.260 ms | Send Time: 2025-06-06T19:17:50.583835, Receive Time: 2025-06-06T19:17:50.615128, Latency: 31.24 ms
+2025-06-06 19:17:50,682 [Agent 9] INFO: Slot Drift: 0.217 ms | Send Time: 2025-06-06T19:17:50.650459, Receive Time: 2025-06-06T19:17:50.682523, Latency: 32.02 ms
+2025-06-06 19:17:50,748 [Agent 9] INFO: Slot Drift: -0.051 ms | Send Time: 2025-06-06T19:17:50.716857, Receive Time: 2025-06-06T19:17:50.748638, Latency: 31.75 ms
+2025-06-06 19:17:50,815 [Agent 9] INFO: Slot Drift: 0.328 ms | Send Time: 2025-06-06T19:17:50.783903, Receive Time: 2025-06-06T19:17:50.815599, Latency: 31.65 ms
+2025-06-06 19:17:50,880 [Agent 9] INFO: Slot Drift: -0.310 ms | Send Time: 2025-06-06T19:17:50.849931, Receive Time: 2025-06-06T19:17:50.880723, Latency: 30.75 ms
+2025-06-06 19:17:50,948 [Agent 9] INFO: Slot Drift: 0.179 ms | Send Time: 2025-06-06T19:17:50.917087, Receive Time: 2025-06-06T19:17:50.948395, Latency: 31.27 ms
+2025-06-06 19:17:51,015 [Agent 9] INFO: Slot Drift: 0.081 ms | Send Time: 2025-06-06T19:17:50.983656, Receive Time: 2025-06-06T19:17:51.015321, Latency: 31.63 ms
+2025-06-06 19:17:51,081 [Agent 9] INFO: Slot Drift: 0.470 ms | Send Time: 2025-06-06T19:17:51.050713, Receive Time: 2025-06-06T19:17:51.081904, Latency: 31.13 ms
+2025-06-06 19:17:51,084 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:51,149 [Agent 9] INFO: Slot Drift: 0.796 ms | Send Time: 2025-06-06T19:17:51.117705, Receive Time: 2025-06-06T19:17:51.148926, Latency: 31.16 ms
+2025-06-06 19:17:51,216 [Agent 9] INFO: Slot Drift: -0.143 ms | Send Time: 2025-06-06T19:17:51.183432, Receive Time: 2025-06-06T19:17:51.216080, Latency: 32.58 ms
+2025-06-06 19:17:51,283 [Agent 9] INFO: Slot Drift: 0.155 ms | Send Time: 2025-06-06T19:17:51.250398, Receive Time: 2025-06-06T19:17:51.283032, Latency: 32.58 ms
+2025-06-06 19:17:51,346 [Agent 9] INFO: Slot Drift: 0.410 ms | Send Time: 2025-06-06T19:17:51.317323, Receive Time: 2025-06-06T19:17:51.346177, Latency: 28.80 ms
+2025-06-06 19:17:51,415 [Agent 9] INFO: Slot Drift: -0.108 ms | Send Time: 2025-06-06T19:17:51.383467, Receive Time: 2025-06-06T19:17:51.415497, Latency: 32.00 ms
+2025-06-06 19:17:51,482 [Agent 9] INFO: Slot Drift: 0.551 ms | Send Time: 2025-06-06T19:17:51.450792, Receive Time: 2025-06-06T19:17:51.482935, Latency: 32.11 ms
+2025-06-06 19:17:51,548 [Agent 9] INFO: Slot Drift: 0.316 ms | Send Time: 2025-06-06T19:17:51.517225, Receive Time: 2025-06-06T19:17:51.548803, Latency: 31.54 ms
+2025-06-06 19:17:51,615 [Agent 9] INFO: Slot Drift: 0.533 ms | Send Time: 2025-06-06T19:17:51.584107, Receive Time: 2025-06-06T19:17:51.615128, Latency: 30.99 ms
+2025-06-06 19:17:51,683 [Agent 9] INFO: Slot Drift: 0.191 ms | Send Time: 2025-06-06T19:17:51.650433, Receive Time: 2025-06-06T19:17:51.683153, Latency: 32.68 ms
+2025-06-06 19:17:51,748 [Agent 9] INFO: Slot Drift: 0.503 ms | Send Time: 2025-06-06T19:17:51.717410, Receive Time: 2025-06-06T19:17:51.748263, Latency: 30.82 ms
+2025-06-06 19:17:51,817 [Agent 9] INFO: Slot Drift: 0.074 ms | Send Time: 2025-06-06T19:17:51.783661, Receive Time: 2025-06-06T19:17:51.817505, Latency: 33.72 ms
+2025-06-06 19:17:51,882 [Agent 9] INFO: Slot Drift: 0.521 ms | Send Time: 2025-06-06T19:17:51.850767, Receive Time: 2025-06-06T19:17:51.882461, Latency: 31.59 ms
+2025-06-06 19:17:51,950 [Agent 9] INFO: Slot Drift: 0.548 ms | Send Time: 2025-06-06T19:17:51.917461, Receive Time: 2025-06-06T19:17:51.950311, Latency: 32.75 ms
+2025-06-06 19:17:52,014 [Agent 9] INFO: Slot Drift: 0.084 ms | Send Time: 2025-06-06T19:17:51.983659, Receive Time: 2025-06-06T19:17:52.014601, Latency: 30.89 ms
+2025-06-06 19:17:52,082 [Agent 9] INFO: Slot Drift: 0.631 ms | Send Time: 2025-06-06T19:17:52.050872, Receive Time: 2025-06-06T19:17:52.082373, Latency: 31.47 ms
+2025-06-06 19:17:52,084 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:52,148 [Agent 9] INFO: Slot Drift: -0.073 ms | Send Time: 2025-06-06T19:17:52.116835, Receive Time: 2025-06-06T19:17:52.148925, Latency: 32.06 ms
+2025-06-06 19:17:52,215 [Agent 9] INFO: Slot Drift: -0.347 ms | Send Time: 2025-06-06T19:17:52.183229, Receive Time: 2025-06-06T19:17:52.215162, Latency: 31.88 ms
+2025-06-06 19:17:52,283 [Agent 9] INFO: Slot Drift: 0.245 ms | Send Time: 2025-06-06T19:17:52.250486, Receive Time: 2025-06-06T19:17:52.283417, Latency: 32.90 ms
+2025-06-06 19:17:52,349 [Agent 9] INFO: Slot Drift: -0.141 ms | Send Time: 2025-06-06T19:17:52.316767, Receive Time: 2025-06-06T19:17:52.349404, Latency: 32.60 ms
+2025-06-06 19:17:52,415 [Agent 9] INFO: Slot Drift: 0.107 ms | Send Time: 2025-06-06T19:17:52.383681, Receive Time: 2025-06-06T19:17:52.415246, Latency: 31.53 ms
+2025-06-06 19:17:52,484 [Agent 9] INFO: Slot Drift: 0.309 ms | Send Time: 2025-06-06T19:17:52.450551, Receive Time: 2025-06-06T19:17:52.484402, Latency: 33.82 ms
+2025-06-06 19:17:52,550 [Agent 9] INFO: Slot Drift: -0.213 ms | Send Time: 2025-06-06T19:17:52.516695, Receive Time: 2025-06-06T19:17:52.550056, Latency: 33.33 ms
+2025-06-06 19:17:52,614 [Agent 9] INFO: Slot Drift: -0.215 ms | Send Time: 2025-06-06T19:17:52.583359, Receive Time: 2025-06-06T19:17:52.614273, Latency: 30.87 ms
+2025-06-06 19:17:52,681 [Agent 9] INFO: Slot Drift: 0.300 ms | Send Time: 2025-06-06T19:17:52.650541, Receive Time: 2025-06-06T19:17:52.681251, Latency: 30.68 ms
+2025-06-06 19:17:52,749 [Agent 9] INFO: Slot Drift: -0.246 ms | Send Time: 2025-06-06T19:17:52.716667, Receive Time: 2025-06-06T19:17:52.749136, Latency: 32.37 ms
+2025-06-06 19:17:52,818 [Agent 9] INFO: Slot Drift: 0.462 ms | Send Time: 2025-06-06T19:17:52.784041, Receive Time: 2025-06-06T19:17:52.818001, Latency: 33.86 ms
+2025-06-06 19:17:52,883 [Agent 9] INFO: Slot Drift: 0.447 ms | Send Time: 2025-06-06T19:17:52.850692, Receive Time: 2025-06-06T19:17:52.883281, Latency: 32.50 ms
+2025-06-06 19:17:52,948 [Agent 9] INFO: Slot Drift: -0.022 ms | Send Time: 2025-06-06T19:17:52.916888, Receive Time: 2025-06-06T19:17:52.948276, Latency: 31.34 ms
+2025-06-06 19:17:53,017 [Agent 9] INFO: Slot Drift: -0.013 ms | Send Time: 2025-06-06T19:17:52.983562, Receive Time: 2025-06-06T19:17:53.017016, Latency: 33.42 ms
+2025-06-06 19:17:53,081 [Agent 9] INFO: Slot Drift: 0.065 ms | Send Time: 2025-06-06T19:17:53.050307, Receive Time: 2025-06-06T19:17:53.081743, Latency: 31.39 ms
+2025-06-06 19:17:53,085 [Agent 9] INFO: FPS - Send: 15, Result: 15
+2025-06-06 19:17:53,147 [Agent 9] INFO: Slot Drift: -0.538 ms | Send Time: 2025-06-06T19:17:53.116370, Receive Time: 2025-06-06T19:17:53.147159, Latency: 30.75 ms
+2025-06-06 19:17:53,214 [Agent 9] INFO: Slot Drift: -0.117 ms | Send Time: 2025-06-06T19:17:53.183459, Receive Time: 2025-06-06T19:17:53.214718, Latency: 31.21 ms
+2025-06-06 19:17:53,281 [Agent 9] INFO: Slot Drift: -0.160 ms | Send Time: 2025-06-06T19:17:53.250082, Receive Time: 2025-06-06T19:17:53.281675, Latency: 31.55 ms
+2025-06-06 19:17:53,343 [Agent 9] INFO: Slot Drift: 0.125 ms | Send Time: 2025-06-06T19:17:53.317033, Receive Time: 2025-06-06T19:17:53.343484, Latency: 26.40 ms
+2025-06-06 19:17:53,403 [Agent 9] INFO: Slot Drift: 0.296 ms | Send Time: 2025-06-06T19:17:53.383872, Receive Time: 2025-06-06T19:17:53.403350, Latency: 19.43 ms
+2025-06-06 19:17:53,494 [Agent 9] INFO: Slot Drift: 0.476 ms | Send Time: 2025-06-06T19:17:53.450719, Receive Time: 2025-06-06T19:17:53.494728, Latency: 43.96 ms
+2025-06-06 19:17:53,546 [Agent 9] INFO: Slot Drift: 0.097 ms | Send Time: 2025-06-06T19:17:53.517005, Receive Time: 2025-06-06T19:17:53.546051, Latency: 29.01 ms
+2025-06-06 19:17:53,602 [Agent 9] INFO: Slot Drift: -0.234 ms | Send Time: 2025-06-06T19:17:53.583341, Receive Time: 2025-06-06T19:17:53.602645, Latency: 19.26 ms
+2025-06-06 19:17:53,640 [Agent 9] INFO: Agent exiting cleanly.
