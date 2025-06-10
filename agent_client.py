@@ -12,10 +12,11 @@ from datetime import datetime
 import atexit
 import uvloop
 
-# 取得 agent ID 與 slot offset 與 base_time
+# 取得 agent ID、slot offset、base_time 與頻率
 AGENT_ID = int(sys.argv[1]) if len(sys.argv) > 1 else 0
 AGENT_SLOT_OFFSET = float(sys.argv[2]) if len(sys.argv) > 2 else 0.0
 AGENT_BASE_TIME = float(sys.argv[3]) if len(sys.argv) > 3 else time.time()
+AGENT_FREQ = float(sys.argv[4]) if len(sys.argv) > 4 else 15.0
 
 # 設定 log 資料
 log_dir = "logs"
@@ -31,6 +32,9 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger(f"{AGENT_ID}")
+logger.info(
+    f"Starting agent {AGENT_ID} | FREQ: {AGENT_FREQ} Hz | Slot offset: {AGENT_SLOT_OFFSET}s | Base time: {AGENT_BASE_TIME}"
+)
 
 @atexit.register
 def log_exit():
@@ -42,7 +46,7 @@ SERVER_ADDRESS = '172.22.9.141:30561'
 POSE_SEND_FPS = 0
 POSE_RESULT_FPS = 0
 POSE_TIMEOUT = 0.1
-FREQ = 15.0
+FREQ = AGENT_FREQ
 INTERVAL = 1.0 / FREQ
 
 image_data = None
