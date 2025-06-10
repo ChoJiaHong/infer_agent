@@ -3,9 +3,11 @@ import time
 import signal
 import sys
 import math
-
+SERVER_FPS=220
 AGENT_COUNT = 10
-FREQ = 10.0
+FREQ = SERVER_FPS / AGENT_COUNT  # 每個 Agent 的頻率
+if FREQ <= 0:
+    raise ValueError("FREQ must be greater than 0, check AGENT_COUNT and SERVER_FPS.")
 USE_SLOT_SCHEDULING = True  # 設為 False 即不排程
 NUM_SLOTS = 2
 T = 1.0 / FREQ
