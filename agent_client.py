@@ -23,7 +23,7 @@ logging.basicConfig(
     format='%(asctime)s [Agent %(name)s] %(levelname)s: %(message)s',
     handlers=[
         logging.FileHandler(log_path),
-        logging.StreamHandler(sys.stdout)
+        #logging.StreamHandler(sys.stdout)
     ]
 )
 logger = logging.getLogger(AGENT_ID)

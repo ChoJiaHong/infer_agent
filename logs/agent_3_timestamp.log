@@ -1,988 +1,313 @@
-2025-06-05 15:06:55,526 [Agent 3] INFO: Connecting to gRPC server at 172.22.9.141:30561
-2025-06-05 15:06:55,528 [Agent 3] INFO: FPS - Send: 0, Result: 0
-2025-06-05 15:06:55,557 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:55.557252492+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:55,612 [Agent 3] INFO: Slot Drift: 0.547 ms | Send Time: 2025-06-05T15:06:55.578758, Receive Time: 2025-06-05T15:06:55.612064, Latency: 33.27 ms
-2025-06-05 15:06:55,656 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:55.656726985+00:00"}"
->
-2025-06-05 15:06:55,707 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:55.707673188+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:55,762 [Agent 3] INFO: Slot Drift: -0.048 ms | Send Time: 2025-06-05T15:06:55.728166, Receive Time: 2025-06-05T15:06:55.762828, Latency: 34.60 ms
-2025-06-05 15:06:55,807 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:55.80721711+00:00"}"
->
-2025-06-05 15:06:55,858 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:55.85772657+00:00"}"
->
-2025-06-05 15:06:55,912 [Agent 3] INFO: Slot Drift: 0.579 ms | Send Time: 2025-06-05T15:06:55.878792, Receive Time: 2025-06-05T15:06:55.912207, Latency: 33.38 ms
-2025-06-05 15:06:55,959 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:55.959153692+00:00"}"
->
-2025-06-05 15:06:56,012 [Agent 3] INFO: Slot Drift: 0.621 ms | Send Time: 2025-06-05T15:06:55.978834, Receive Time: 2025-06-05T15:06:56.011964, Latency: 33.10 ms
-2025-06-05 15:06:56,064 [Agent 3] INFO: Slot Drift: 0.007 ms | Send Time: 2025-06-05T15:06:56.028219, Receive Time: 2025-06-05T15:06:56.064473, Latency: 36.22 ms
-2025-06-05 15:06:56,110 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.109895615+00:00"}"
->
-2025-06-05 15:06:56,162 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.16240594+00:00"}"
->
-2025-06-05 15:06:56,210 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.210126012+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:56,262 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.261868548+00:00"}"
->
-2025-06-05 15:06:56,313 [Agent 3] INFO: Slot Drift: 0.231 ms | Send Time: 2025-06-05T15:06:56.278443, Receive Time: 2025-06-05T15:06:56.313750, Latency: 35.28 ms
-2025-06-05 15:06:56,360 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.36050164+00:00"}"
->
-2025-06-05 15:06:56,414 [Agent 3] INFO: Slot Drift: -0.226 ms | Send Time: 2025-06-05T15:06:56.377986, Receive Time: 2025-06-05T15:06:56.414494, Latency: 36.48 ms
-2025-06-05 15:06:56,459 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.45964526+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:56,512 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.512628147+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:56,528 [Agent 3] INFO: FPS - Send: 21, Result: 7
-2025-06-05 15:06:56,568 [Agent 3] INFO: Slot Drift: -0.060 ms | Send Time: 2025-06-05T15:06:56.528152, Receive Time: 2025-06-05T15:06:56.568219, Latency: 40.03 ms
-2025-06-05 15:06:56,616 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.615906016+00:00"}"
->
-2025-06-05 15:06:56,663 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.663151898+00:00"}"
->
-2025-06-05 15:06:56,714 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.714631046+00:00"}"
->
-2025-06-05 15:06:56,764 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.76385083+00:00"}"
->
-2025-06-05 15:06:56,815 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.814788374+00:00"}"
->
-2025-06-05 15:06:56,863 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.863747439+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:56,915 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:56.915560252+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:56,971 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:56.97121256+00:00"}"
->
-2025-06-05 15:06:57,016 [Agent 3] INFO: Slot Drift: 0.454 ms | Send Time: 2025-06-05T15:06:56.978666, Receive Time: 2025-06-05T15:06:57.016902, Latency: 38.20 ms
-2025-06-05 15:06:57,069 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.069145049+00:00"}"
->
-2025-06-05 15:06:57,119 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.119420503+00:00"}"
->
-2025-06-05 15:06:57,166 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.166648272+00:00"}"
->
-2025-06-05 15:06:57,209 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.2096623+00:00"}"
->
-2025-06-05 15:06:57,259 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.259144438+00:00"}"
->
-2025-06-05 15:06:57,309 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.309485274+00:00"}"
->
-2025-06-05 15:06:57,359 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.359503096+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:57,409 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.409837376+00:00"}"
->
-2025-06-05 15:06:57,459 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.459376534+00:00"}"
->
-2025-06-05 15:06:57,509 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.509276809+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:57,528 [Agent 3] INFO: FPS - Send: 19, Result: 2
-2025-06-05 15:06:57,560 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.559894981+00:00"}"
->
-2025-06-05 15:06:57,626 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.626544916+00:00"}"
->
-2025-06-05 15:06:57,673 [Agent 3] INFO: Slot Drift: -0.226 ms | Send Time: 2025-06-05T15:06:57.627986, Receive Time: 2025-06-05T15:06:57.673574, Latency: 45.56 ms
-2025-06-05 15:06:57,725 [Agent 3] INFO: Slot Drift: 1.813 ms | Send Time: 2025-06-05T15:06:57.680025, Receive Time: 2025-06-05T15:06:57.725309, Latency: 45.25 ms
-2025-06-05 15:06:57,774 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.774497856+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:57,825 [Agent 3] INFO: Slot Drift: -0.273 ms | Send Time: 2025-06-05T15:06:57.777939, Receive Time: 2025-06-05T15:06:57.825247, Latency: 47.28 ms
-2025-06-05 15:06:57,875 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:57.875257988+00:00"}"
->
-2025-06-05 15:06:57,925 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:57.925797552+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:57,976 [Agent 3] INFO: Slot Drift: 0.011 ms | Send Time: 2025-06-05T15:06:57.928223, Receive Time: 2025-06-05T15:06:57.976386, Latency: 48.13 ms
-2025-06-05 15:06:58,025 [Agent 3] INFO: Slot Drift: 0.412 ms | Send Time: 2025-06-05T15:06:57.978624, Receive Time: 2025-06-05T15:06:58.025493, Latency: 46.84 ms
-2025-06-05 15:06:58,074 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.074337265+00:00"}"
->
-2025-06-05 15:06:58,125 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.125064485+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:58,174 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.174574114+00:00"}"
->
-2025-06-05 15:06:58,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.225651725+00:00"}"
->
-2025-06-05 15:06:58,275 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.275610302+00:00"}"
->
-2025-06-05 15:06:58,325 [Agent 3] INFO: Slot Drift: -0.008 ms | Send Time: 2025-06-05T15:06:58.278204, Receive Time: 2025-06-05T15:06:58.325741, Latency: 47.51 ms
-2025-06-05 15:06:58,374 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.374222464+00:00"}"
->
-2025-06-05 15:06:58,425 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.42500023+00:00"}"
->
-2025-06-05 15:06:58,476 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.475652817+00:00"}"
->
-2025-06-05 15:06:58,528 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.527949407+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:58,528 [Agent 3] INFO: FPS - Send: 21, Result: 6
-2025-06-05 15:06:58,576 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.575774803+00:00"}"
->
-2025-06-05 15:06:58,627 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:58.626611495+00:00"}"
->
-2025-06-05 15:06:58,677 [Agent 3] INFO: Slot Drift: 0.005 ms | Send Time: 2025-06-05T15:06:58.628220, Receive Time: 2025-06-05T15:06:58.677228, Latency: 48.92 ms
-2025-06-05 15:06:58,727 [Agent 3] INFO: Slot Drift: -0.336 ms | Send Time: 2025-06-05T15:06:58.677880, Receive Time: 2025-06-05T15:06:58.727581, Latency: 49.60 ms
-2025-06-05 15:06:58,778 [Agent 3] INFO: Slot Drift: -0.214 ms | Send Time: 2025-06-05T15:06:58.728000, Receive Time: 2025-06-05T15:06:58.778761, Latency: 50.69 ms
-2025-06-05 15:06:58,826 [Agent 3] INFO: Slot Drift: 1.035 ms | Send Time: 2025-06-05T15:06:58.779248, Receive Time: 2025-06-05T15:06:58.825914, Latency: 46.59 ms
-2025-06-05 15:06:58,874 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:58.874588529+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:58,926 [Agent 3] INFO: Slot Drift: 0.214 ms | Send Time: 2025-06-05T15:06:58.878428, Receive Time: 2025-06-05T15:06:58.926639, Latency: 48.16 ms
-2025-06-05 15:06:58,976 [Agent 3] INFO: Slot Drift: -0.044 ms | Send Time: 2025-06-05T15:06:58.928169, Receive Time: 2025-06-05T15:06:58.976488, Latency: 48.27 ms
-2025-06-05 15:06:59,025 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.025356771+00:00"}"
->
-2025-06-05 15:06:59,074 [Agent 3] INFO: Slot Drift: -0.048 ms | Send Time: 2025-06-05T15:06:59.028165, Receive Time: 2025-06-05T15:06:59.074201, Latency: 45.98 ms
-2025-06-05 15:06:59,124 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.124685856+00:00"}"
->
-2025-06-05 15:06:59,175 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.175245942+00:00"}"
->
-2025-06-05 15:06:59,224 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.223914605+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:59,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.274353693+00:00"}"
->
-2025-06-05 15:06:59,324 [Agent 3] INFO: Slot Drift: -0.365 ms | Send Time: 2025-06-05T15:06:59.277847, Receive Time: 2025-06-05T15:06:59.324499, Latency: 46.63 ms
-2025-06-05 15:06:59,374 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.374097373+00:00"}"
->
-2025-06-05 15:06:59,425 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.425041947+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:59,475 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.475248812+00:00"}"
->
-2025-06-05 15:06:59,526 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.526522225+00:00"}"
->
-2025-06-05 15:06:59,529 [Agent 3] INFO: FPS - Send: 20, Result: 8
-2025-06-05 15:06:59,575 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.575488144+00:00"}"
->
-2025-06-05 15:06:59,624 [Agent 3] INFO: Slot Drift: -0.227 ms | Send Time: 2025-06-05T15:06:59.577985, Receive Time: 2025-06-05T15:06:59.624689, Latency: 46.67 ms
-2025-06-05 15:06:59,674 [Agent 3] INFO: Slot Drift: -0.239 ms | Send Time: 2025-06-05T15:06:59.627973, Receive Time: 2025-06-05T15:06:59.674934, Latency: 46.93 ms
-2025-06-05 15:06:59,724 [Agent 3] INFO: Slot Drift: -0.001 ms | Send Time: 2025-06-05T15:06:59.678210, Receive Time: 2025-06-05T15:06:59.724915, Latency: 46.67 ms
-2025-06-05 15:06:59,776 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.77607139+00:00"}"
->
-2025-06-05 15:06:59,824 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:06:59.82416973+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:06:59,874 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.874110545+00:00"}"
->
-2025-06-05 15:06:59,924 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:06:59.924801567+00:00"}"
->
-2025-06-05 15:06:59,975 [Agent 3] INFO: Slot Drift: 0.073 ms | Send Time: 2025-06-05T15:06:59.928285, Receive Time: 2025-06-05T15:06:59.974997, Latency: 46.68 ms
-2025-06-05 15:07:00,024 [Agent 3] INFO: Slot Drift: 0.054 ms | Send Time: 2025-06-05T15:06:59.978265, Receive Time: 2025-06-05T15:07:00.024273, Latency: 45.98 ms
-2025-06-05 15:07:00,074 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.074647854+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:00,125 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.125173244+00:00"}"
->
-2025-06-05 15:07:00,175 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.175139479+00:00"}"
->
-2025-06-05 15:07:00,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.225453896+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:00,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.274481094+00:00"}"
->
-2025-06-05 15:07:00,324 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:00.324034086+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:00,375 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.375521376+00:00"}"
->
-2025-06-05 15:07:00,424 [Agent 3] INFO: Slot Drift: -0.293 ms | Send Time: 2025-06-05T15:07:00.377919, Receive Time: 2025-06-05T15:07:00.424733, Latency: 46.78 ms
-2025-06-05 15:07:00,477 [Agent 3] INFO: Slot Drift: -0.166 ms | Send Time: 2025-06-05T15:07:00.428046, Receive Time: 2025-06-05T15:07:00.477340, Latency: 49.26 ms
-2025-06-05 15:07:00,523 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.523498559+00:00"}"
->
-2025-06-05 15:07:00,529 [Agent 3] INFO: FPS - Send: 20, Result: 7
-2025-06-05 15:07:00,577 [Agent 3] INFO: Slot Drift: -0.245 ms | Send Time: 2025-06-05T15:07:00.527966, Receive Time: 2025-06-05T15:07:00.576990, Latency: 48.98 ms
-2025-06-05 15:07:00,623 [Agent 3] INFO: Slot Drift: 0.069 ms | Send Time: 2025-06-05T15:07:00.578280, Receive Time: 2025-06-05T15:07:00.623804, Latency: 45.50 ms
-2025-06-05 15:07:00,674 [Agent 3] INFO: Slot Drift: -0.013 ms | Send Time: 2025-06-05T15:07:00.628199, Receive Time: 2025-06-05T15:07:00.674461, Latency: 46.23 ms
-2025-06-05 15:07:00,724 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.724031189+00:00"}"
->
-2025-06-05 15:07:00,775 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.775694052+00:00"}"
->
-2025-06-05 15:07:00,825 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.825169091+00:00"}"
->
-2025-06-05 15:07:00,874 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.874528292+00:00"}"
->
-2025-06-05 15:07:00,924 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:00.92454295+00:00"}"
->
-2025-06-05 15:07:00,975 [Agent 3] INFO: Slot Drift: -0.197 ms | Send Time: 2025-06-05T15:07:00.928015, Receive Time: 2025-06-05T15:07:00.975724, Latency: 47.68 ms
-2025-06-05 15:07:01,025 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.025449512+00:00"}"
->
-2025-06-05 15:07:01,074 [Agent 3] INFO: Slot Drift: -0.252 ms | Send Time: 2025-06-05T15:07:01.027959, Receive Time: 2025-06-05T15:07:01.074575, Latency: 46.59 ms
-2025-06-05 15:07:01,125 [Agent 3] INFO: Slot Drift: -0.325 ms | Send Time: 2025-06-05T15:07:01.077887, Receive Time: 2025-06-05T15:07:01.124976, Latency: 47.06 ms
-2025-06-05 15:07:01,175 [Agent 3] INFO: Slot Drift: 0.149 ms | Send Time: 2025-06-05T15:07:01.128361, Receive Time: 2025-06-05T15:07:01.175242, Latency: 46.85 ms
-2025-06-05 15:07:01,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.225182518+00:00"}"
->
-2025-06-05 15:07:01,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.274233025+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:01,325 [Agent 3] INFO: Slot Drift: -0.358 ms | Send Time: 2025-06-05T15:07:01.277854, Receive Time: 2025-06-05T15:07:01.325724, Latency: 47.84 ms
-2025-06-05 15:07:01,375 [Agent 3] INFO: Slot Drift: -0.225 ms | Send Time: 2025-06-05T15:07:01.327986, Receive Time: 2025-06-05T15:07:01.375479, Latency: 47.46 ms
-2025-06-05 15:07:01,424 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.424476034+00:00"}"
->
-2025-06-05 15:07:01,475 [Agent 3] INFO: Slot Drift: -0.244 ms | Send Time: 2025-06-05T15:07:01.427968, Receive Time: 2025-06-05T15:07:01.475720, Latency: 47.72 ms
-2025-06-05 15:07:01,524 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:01.524184304+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:01,530 [Agent 3] INFO: FPS - Send: 20, Result: 10
-2025-06-05 15:07:01,574 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.574234199+00:00"}"
->
-2025-06-05 15:07:01,624 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.624615351+00:00"}"
->
-2025-06-05 15:07:01,676 [Agent 3] INFO: Slot Drift: 0.030 ms | Send Time: 2025-06-05T15:07:01.628243, Receive Time: 2025-06-05T15:07:01.676073, Latency: 47.78 ms
-2025-06-05 15:07:01,725 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.724636842+00:00"}"
->
-2025-06-05 15:07:01,776 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.776694217+00:00"}"
->
-2025-06-05 15:07:01,824 [Agent 3] INFO: Slot Drift: -0.030 ms | Send Time: 2025-06-05T15:07:01.778182, Receive Time: 2025-06-05T15:07:01.824405, Latency: 46.19 ms
-2025-06-05 15:07:01,874 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:01.874627691+00:00"}"
->
-2025-06-05 15:07:01,926 [Agent 3] INFO: Slot Drift: -0.083 ms | Send Time: 2025-06-05T15:07:01.878129, Receive Time: 2025-06-05T15:07:01.926631, Latency: 48.47 ms
-2025-06-05 15:07:01,977 [Agent 3] INFO: Slot Drift: 0.249 ms | Send Time: 2025-06-05T15:07:01.928464, Receive Time: 2025-06-05T15:07:01.977677, Latency: 49.13 ms
-2025-06-05 15:07:02,025 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.025293588+00:00"}"
->
-2025-06-05 15:07:02,073 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.07307875+00:00"}"
->
-2025-06-05 15:07:02,125 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.125360481+00:00"}"
->
-2025-06-05 15:07:02,176 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.175904817+00:00"}"
->
-2025-06-05 15:07:02,224 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.22453609+00:00"}"
->
-2025-06-05 15:07:02,274 [Agent 3] INFO: Slot Drift: -0.046 ms | Send Time: 2025-06-05T15:07:02.228167, Receive Time: 2025-06-05T15:07:02.274941, Latency: 46.73 ms
-2025-06-05 15:07:02,325 [Agent 3] INFO: Slot Drift: 0.065 ms | Send Time: 2025-06-05T15:07:02.278277, Receive Time: 2025-06-05T15:07:02.325261, Latency: 46.95 ms
-2025-06-05 15:07:02,375 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.374963244+00:00"}"
->
-2025-06-05 15:07:02,424 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.42454877+00:00"}"
->
-2025-06-05 15:07:02,475 [Agent 3] INFO: Slot Drift: -0.008 ms | Send Time: 2025-06-05T15:07:02.428205, Receive Time: 2025-06-05T15:07:02.475554, Latency: 47.30 ms
-2025-06-05 15:07:02,525 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.52501339+00:00"}"
->
-2025-06-05 15:07:02,531 [Agent 3] INFO: FPS - Send: 20, Result: 7
-2025-06-05 15:07:02,575 [Agent 3] INFO: Slot Drift: 0.368 ms | Send Time: 2025-06-05T15:07:02.528581, Receive Time: 2025-06-05T15:07:02.575484, Latency: 46.86 ms
-2025-06-05 15:07:02,625 [Agent 3] INFO: Slot Drift: -0.128 ms | Send Time: 2025-06-05T15:07:02.578086, Receive Time: 2025-06-05T15:07:02.625663, Latency: 47.52 ms
-2025-06-05 15:07:02,676 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.676532719+00:00"}"
->
-2025-06-05 15:07:02,724 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.724312995+00:00"}"
->
-2025-06-05 15:07:02,775 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.775172917+00:00"}"
->
-2025-06-05 15:07:02,828 [Agent 3] INFO: Slot Drift: -0.263 ms | Send Time: 2025-06-05T15:07:02.777951, Receive Time: 2025-06-05T15:07:02.827961, Latency: 49.96 ms
-2025-06-05 15:07:02,876 [Agent 3] INFO: Slot Drift: 0.073 ms | Send Time: 2025-06-05T15:07:02.828286, Receive Time: 2025-06-05T15:07:02.876744, Latency: 48.41 ms
-2025-06-05 15:07:02,926 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.926323734+00:00"}"
->
-2025-06-05 15:07:02,975 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:02.975557284+00:00"}"
->
-2025-06-05 15:07:03,025 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.025249385+00:00"}"
->
-2025-06-05 15:07:03,076 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:03.076266339+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:03,124 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.124457563+00:00"}"
->
-2025-06-05 15:07:03,177 [Agent 3] INFO: Slot Drift: -0.315 ms | Send Time: 2025-06-05T15:07:03.127897, Receive Time: 2025-06-05T15:07:03.177115, Latency: 49.19 ms
-2025-06-05 15:07:03,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.225457971+00:00"}"
->
-2025-06-05 15:07:03,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.274537633+00:00"}"
->
-2025-06-05 15:07:03,325 [Agent 3] INFO: Slot Drift: -0.142 ms | Send Time: 2025-06-05T15:07:03.278070, Receive Time: 2025-06-05T15:07:03.325028, Latency: 46.93 ms
-2025-06-05 15:07:03,374 [Agent 3] INFO: Slot Drift: 0.079 ms | Send Time: 2025-06-05T15:07:03.328291, Receive Time: 2025-06-05T15:07:03.374949, Latency: 46.63 ms
-2025-06-05 15:07:03,424 [Agent 3] INFO: Slot Drift: 0.001 ms | Send Time: 2025-06-05T15:07:03.378212, Receive Time: 2025-06-05T15:07:03.424867, Latency: 46.63 ms
-2025-06-05 15:07:03,475 [Agent 3] INFO: Slot Drift: -0.069 ms | Send Time: 2025-06-05T15:07:03.428141, Receive Time: 2025-06-05T15:07:03.475183, Latency: 47.02 ms
-2025-06-05 15:07:03,525 [Agent 3] INFO: Slot Drift: 0.189 ms | Send Time: 2025-06-05T15:07:03.478400, Receive Time: 2025-06-05T15:07:03.525747, Latency: 47.32 ms
-2025-06-05 15:07:03,532 [Agent 3] INFO: FPS - Send: 20, Result: 10
-2025-06-05 15:07:03,576 [Agent 3] INFO: Slot Drift: -0.237 ms | Send Time: 2025-06-05T15:07:03.527973, Receive Time: 2025-06-05T15:07:03.576747, Latency: 48.75 ms
-2025-06-05 15:07:03,624 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.62408805+00:00"}"
->
-2025-06-05 15:07:03,675 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.675677979+00:00"}"
->
-2025-06-05 15:07:03,725 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.725547569+00:00"}"
->
-2025-06-05 15:07:03,775 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.775046225+00:00"}"
->
-2025-06-05 15:07:03,824 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.824431618+00:00"}"
->
-2025-06-05 15:07:03,877 [Agent 3] INFO: Slot Drift: -0.375 ms | Send Time: 2025-06-05T15:07:03.827836, Receive Time: 2025-06-05T15:07:03.877255, Latency: 49.39 ms
-2025-06-05 15:07:03,926 [Agent 3] INFO: Slot Drift: 0.277 ms | Send Time: 2025-06-05T15:07:03.878488, Receive Time: 2025-06-05T15:07:03.926541, Latency: 48.03 ms
-2025-06-05 15:07:03,975 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:03.975656427+00:00"}"
->
-2025-06-05 15:07:04,025 [Agent 3] INFO: Slot Drift: -0.109 ms | Send Time: 2025-06-05T15:07:03.978103, Receive Time: 2025-06-05T15:07:04.025184, Latency: 47.05 ms
-2025-06-05 15:07:04,074 [Agent 3] INFO: Slot Drift: 0.266 ms | Send Time: 2025-06-05T15:07:04.028476, Receive Time: 2025-06-05T15:07:04.074631, Latency: 46.13 ms
-2025-06-05 15:07:04,124 [Agent 3] INFO: Slot Drift: -0.339 ms | Send Time: 2025-06-05T15:07:04.077872, Receive Time: 2025-06-05T15:07:04.124683, Latency: 46.79 ms
-2025-06-05 15:07:04,174 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.174160409+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:04,225 [Agent 3] INFO: Slot Drift: -0.373 ms | Send Time: 2025-06-05T15:07:04.177839, Receive Time: 2025-06-05T15:07:04.225766, Latency: 47.89 ms
-2025-06-05 15:07:04,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.274547458+00:00"}"
->
-2025-06-05 15:07:04,324 [Agent 3] INFO: Slot Drift: -0.162 ms | Send Time: 2025-06-05T15:07:04.278050, Receive Time: 2025-06-05T15:07:04.323973, Latency: 45.89 ms
-2025-06-05 15:07:04,374 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.374694558+00:00"}"
->
-2025-06-05 15:07:04,423 [Agent 3] INFO: Slot Drift: 0.033 ms | Send Time: 2025-06-05T15:07:04.378245, Receive Time: 2025-06-05T15:07:04.423761, Latency: 45.49 ms
-2025-06-05 15:07:04,474 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.474513019+00:00"}"
->
-2025-06-05 15:07:04,525 [Agent 3] INFO: Slot Drift: -0.177 ms | Send Time: 2025-06-05T15:07:04.478035, Receive Time: 2025-06-05T15:07:04.525232, Latency: 47.16 ms
-2025-06-05 15:07:04,532 [Agent 3] INFO: FPS - Send: 20, Result: 10
-2025-06-05 15:07:04,574 [Agent 3] INFO: Slot Drift: 0.277 ms | Send Time: 2025-06-05T15:07:04.528488, Receive Time: 2025-06-05T15:07:04.574787, Latency: 46.27 ms
-2025-06-05 15:07:04,624 [Agent 3] INFO: Slot Drift: -0.144 ms | Send Time: 2025-06-05T15:07:04.578067, Receive Time: 2025-06-05T15:07:04.624641, Latency: 46.54 ms
-2025-06-05 15:07:04,675 [Agent 3] INFO: Slot Drift: -0.205 ms | Send Time: 2025-06-05T15:07:04.628009, Receive Time: 2025-06-05T15:07:04.675398, Latency: 47.34 ms
-2025-06-05 15:07:04,725 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.725078561+00:00"}"
->
-2025-06-05 15:07:04,774 [Agent 3] INFO: Slot Drift: 0.323 ms | Send Time: 2025-06-05T15:07:04.728538, Receive Time: 2025-06-05T15:07:04.774346, Latency: 45.77 ms
-2025-06-05 15:07:04,825 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.825077826+00:00"}"
->
-2025-06-05 15:07:04,873 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:04.873326549+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:04,924 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.924438471+00:00"}"
->
-2025-06-05 15:07:04,975 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:04.975142916+00:00"}"
->
-2025-06-05 15:07:05,024 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.024427628+00:00"}"
->
-2025-06-05 15:07:05,075 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.075218319+00:00"}"
->
-2025-06-05 15:07:05,124 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.124272192+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,176 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.175797184+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,224 [Agent 3] INFO: Slot Drift: 0.146 ms | Send Time: 2025-06-05T15:07:05.178359, Receive Time: 2025-06-05T15:07:05.224699, Latency: 46.30 ms
-2025-06-05 15:07:05,275 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.275293755+00:00"}"
->
-2025-06-05 15:07:05,325 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.32515641+00:00"}"
->
-2025-06-05 15:07:05,373 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.373478575+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,425 [Agent 3] INFO: Slot Drift: -0.271 ms | Send Time: 2025-06-05T15:07:05.377941, Receive Time: 2025-06-05T15:07:05.425438, Latency: 47.47 ms
-2025-06-05 15:07:05,477 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.477159796+00:00"}"
->
-2025-06-05 15:07:05,525 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.525096746+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,532 [Agent 3] INFO: FPS - Send: 20, Result: 6
-2025-06-05 15:07:05,575 [Agent 3] INFO: Slot Drift: 0.305 ms | Send Time: 2025-06-05T15:07:05.528517, Receive Time: 2025-06-05T15:07:05.575225, Latency: 46.67 ms
-2025-06-05 15:07:05,624 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.624066476+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,674 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.674645889+00:00"}"
->
-2025-06-05 15:07:05,724 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.724595422+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,775 [Agent 3] INFO: Slot Drift: -0.089 ms | Send Time: 2025-06-05T15:07:05.728123, Receive Time: 2025-06-05T15:07:05.775214, Latency: 47.06 ms
-2025-06-05 15:07:05,826 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:05.82676294+00:00"}"
->
-2025-06-05 15:07:05,875 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.875241906+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,924 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:05.924818176+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:05,975 [Agent 3] INFO: Slot Drift: 0.090 ms | Send Time: 2025-06-05T15:07:05.928303, Receive Time: 2025-06-05T15:07:05.975664, Latency: 47.33 ms
-2025-06-05 15:07:06,026 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.025928424+00:00"}"
->
-2025-06-05 15:07:06,075 [Agent 3] INFO: Slot Drift: 0.171 ms | Send Time: 2025-06-05T15:07:06.028383, Receive Time: 2025-06-05T15:07:06.075003, Latency: 46.59 ms
-2025-06-05 15:07:06,125 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.125082152+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,175 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.174750956+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.225037953+00:00"}"
->
-2025-06-05 15:07:06,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.274617367+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,323 [Agent 3] INFO: Slot Drift: -0.059 ms | Send Time: 2025-06-05T15:07:06.278154, Receive Time: 2025-06-05T15:07:06.323743, Latency: 45.56 ms
-2025-06-05 15:07:06,374 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.374541884+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,424 [Agent 3] INFO: Slot Drift: -0.169 ms | Send Time: 2025-06-05T15:07:06.378043, Receive Time: 2025-06-05T15:07:06.424539, Latency: 46.47 ms
-2025-06-05 15:07:06,476 [Agent 3] INFO: Slot Drift: -0.322 ms | Send Time: 2025-06-05T15:07:06.427891, Receive Time: 2025-06-05T15:07:06.476150, Latency: 48.22 ms
-2025-06-05 15:07:06,524 [Agent 3] INFO: Slot Drift: 0.176 ms | Send Time: 2025-06-05T15:07:06.478387, Receive Time: 2025-06-05T15:07:06.524384, Latency: 45.97 ms
-2025-06-05 15:07:06,532 [Agent 3] INFO: FPS - Send: 20, Result: 8
-2025-06-05 15:07:06,574 [Agent 3] INFO: Slot Drift: 0.431 ms | Send Time: 2025-06-05T15:07:06.528641, Receive Time: 2025-06-05T15:07:06.574618, Latency: 45.95 ms
-2025-06-05 15:07:06,624 [Agent 3] INFO: Slot Drift: -0.329 ms | Send Time: 2025-06-05T15:07:06.577883, Receive Time: 2025-06-05T15:07:06.624899, Latency: 46.98 ms
-2025-06-05 15:07:06,675 [Agent 3] INFO: Slot Drift: -0.007 ms | Send Time: 2025-06-05T15:07:06.628204, Receive Time: 2025-06-05T15:07:06.675842, Latency: 47.61 ms
-2025-06-05 15:07:06,725 [Agent 3] INFO: Slot Drift: -0.117 ms | Send Time: 2025-06-05T15:07:06.678094, Receive Time: 2025-06-05T15:07:06.725647, Latency: 47.53 ms
-2025-06-05 15:07:06,777 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.77704431+00:00"}"
->
-2025-06-05 15:07:06,825 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.825033724+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,877 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:06.877503367+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:06,925 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:06.925431344+00:00"}"
->
-2025-06-05 15:07:06,974 [Agent 3] INFO: Slot Drift: -0.325 ms | Send Time: 2025-06-05T15:07:06.927887, Receive Time: 2025-06-05T15:07:06.974945, Latency: 47.03 ms
-2025-06-05 15:07:07,025 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.024914949+00:00"}"
->
-2025-06-05 15:07:07,075 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.074988482+00:00"}"
->
-2025-06-05 15:07:07,125 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.125205252+00:00"}"
->
-2025-06-05 15:07:07,175 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.174804399+00:00"}"
->
-2025-06-05 15:07:07,224 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.224298124+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:07,274 [Agent 3] INFO: Slot Drift: -0.379 ms | Send Time: 2025-06-05T15:07:07.227834, Receive Time: 2025-06-05T15:07:07.274525, Latency: 46.65 ms
-2025-06-05 15:07:07,324 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.324703155+00:00"}"
->
-2025-06-05 15:07:07,375 [Agent 3] INFO: Slot Drift: -0.046 ms | Send Time: 2025-06-05T15:07:07.328166, Receive Time: 2025-06-05T15:07:07.375886, Latency: 47.69 ms
-2025-06-05 15:07:07,424 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.423886379+00:00"}"
->
-2025-06-05 15:07:07,474 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.473828872+00:00"}"
->
-2025-06-05 15:07:07,524 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.524193347+00:00"}"
->
-2025-06-05 15:07:07,532 [Agent 3] INFO: FPS - Send: 20, Result: 7
-2025-06-05 15:07:07,576 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.576287118+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:07,624 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.624789314+00:00"}"
->
-2025-06-05 15:07:07,674 [Agent 3] INFO: Slot Drift: 0.076 ms | Send Time: 2025-06-05T15:07:07.628288, Receive Time: 2025-06-05T15:07:07.674649, Latency: 46.33 ms
-2025-06-05 15:07:07,725 [Agent 3] INFO: Slot Drift: -0.259 ms | Send Time: 2025-06-05T15:07:07.677952, Receive Time: 2025-06-05T15:07:07.725058, Latency: 47.08 ms
-2025-06-05 15:07:07,775 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.774775949+00:00"}"
->
-2025-06-05 15:07:07,824 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.8245792+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:07,874 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:07.874456261+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:07,925 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:07.925471674+00:00"}"
->
-2025-06-05 15:07:07,974 [Agent 3] INFO: Slot Drift: 0.070 ms | Send Time: 2025-06-05T15:07:07.928284, Receive Time: 2025-06-05T15:07:07.974786, Latency: 46.45 ms
-2025-06-05 15:07:08,024 [Agent 3] INFO: Slot Drift: -0.163 ms | Send Time: 2025-06-05T15:07:07.978048, Receive Time: 2025-06-05T15:07:08.024801, Latency: 46.73 ms
-2025-06-05 15:07:08,075 [Agent 3] INFO: Slot Drift: -0.151 ms | Send Time: 2025-06-05T15:07:08.028060, Receive Time: 2025-06-05T15:07:08.075607, Latency: 47.52 ms
-2025-06-05 15:07:08,124 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.124215923+00:00"}"
->
-2025-06-05 15:07:08,175 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.175025531+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:08,225 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.225325125+00:00"}"
->
-2025-06-05 15:07:08,274 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.274524889+00:00"}"
->
-2025-06-05 15:07:08,324 [Agent 3] INFO: Slot Drift: -0.122 ms | Send Time: 2025-06-05T15:07:08.278091, Receive Time: 2025-06-05T15:07:08.324857, Latency: 46.72 ms
-2025-06-05 15:07:08,374 [Agent 3] INFO: Slot Drift: -0.037 ms | Send Time: 2025-06-05T15:07:08.328175, Receive Time: 2025-06-05T15:07:08.374545, Latency: 46.34 ms
-2025-06-05 15:07:08,426 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.426213083+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:08,476 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.476477932+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:08,526 [Agent 3] INFO: Slot Drift: -0.112 ms | Send Time: 2025-06-05T15:07:08.478101, Receive Time: 2025-06-05T15:07:08.526539, Latency: 48.39 ms
-2025-06-05 15:07:08,534 [Agent 3] INFO: FPS - Send: 20, Result: 8
-2025-06-05 15:07:08,574 [Agent 3] INFO: Slot Drift: -0.343 ms | Send Time: 2025-06-05T15:07:08.527869, Receive Time: 2025-06-05T15:07:08.574880, Latency: 46.97 ms
-2025-06-05 15:07:08,625 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.625155018+00:00"}"
->
-2025-06-05 15:07:08,675 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.675099661+00:00"}"
->
-2025-06-05 15:07:08,726 [Agent 3] INFO: Slot Drift: -0.153 ms | Send Time: 2025-06-05T15:07:08.678061, Receive Time: 2025-06-05T15:07:08.725961, Latency: 47.83 ms
-2025-06-05 15:07:08,776 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.775574958+00:00"}"
->
-2025-06-05 15:07:08,826 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:08.825641595+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:08,877 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.877417253+00:00"}"
->
-2025-06-05 15:07:08,925 [Agent 3] INFO: Slot Drift: -0.084 ms | Send Time: 2025-06-05T15:07:08.878129, Receive Time: 2025-06-05T15:07:08.925614, Latency: 47.43 ms
-2025-06-05 15:07:08,975 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:08.975660527+00:00"}"
->
-2025-06-05 15:07:09,024 [Agent 3] INFO: Slot Drift: -0.116 ms | Send Time: 2025-06-05T15:07:08.978095, Receive Time: 2025-06-05T15:07:09.024677, Latency: 46.55 ms
-2025-06-05 15:07:09,074 [Agent 3] INFO: Slot Drift: -0.251 ms | Send Time: 2025-06-05T15:07:09.027961, Receive Time: 2025-06-05T15:07:09.074007, Latency: 46.02 ms
-2025-06-05 15:07:09,124 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.12451964+00:00"}"
->
-2025-06-05 15:07:09,174 [Agent 3] INFO: Slot Drift: -0.258 ms | Send Time: 2025-06-05T15:07:09.127954, Receive Time: 2025-06-05T15:07:09.174672, Latency: 46.69 ms
-2025-06-05 15:07:09,224 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.224730485+00:00"}"
->
-2025-06-05 15:07:09,275 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__", grpc_status:2, created_time:"2025-06-05T15:07:09.27497024+00:00"}"
->
-2025-06-05 15:07:09,325 [Agent 3] ERROR: gRPC Error: <AioRpcError of RPC that terminated with:
-	status = StatusCode.UNKNOWN
-	details = "Exception calling application: unsupported format string passed to NoneType.__format__"
-	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-06-05T15:07:09.325796656+00:00", grpc_status:2, grpc_message:"Exception calling application: unsupported format string passed to NoneType.__format__"}"
->
-2025-06-05 15:07:09,376 [Agent 3] INFO: Slot Drift: -0.028 ms | Send Time: 2025-06-05T15:07:09.328184, Receive Time: 2025-06-05T15:07:09.376107, Latency: 47.90 ms
+2025-06-10 15:37:14,606 [Agent 3] INFO: Connecting to gRPC server at 172.22.9.141:30561
+2025-06-10 15:37:14,607 [Agent 3] INFO: FPS - Send: 0, Result: 0
+2025-06-10 15:37:14,631 [Agent 3] INFO: Slot Drift: 0.000 ms | Send Time: 2025-06-10T15:37:14.607749, Receive Time: 2025-06-10T15:37:14.631182, Latency: 23.31 ms
+2025-06-10 15:37:14,690 [Agent 3] INFO: Slot Drift: -0.353 ms | Send Time: 2025-06-10T15:37:14.657396, Receive Time: 2025-06-10T15:37:14.690667, Latency: 33.25 ms
+2025-06-10 15:37:14,740 [Agent 3] INFO: Slot Drift: 0.156 ms | Send Time: 2025-06-10T15:37:14.707905, Receive Time: 2025-06-10T15:37:14.740678, Latency: 32.75 ms
+2025-06-10 15:37:14,791 [Agent 3] INFO: Slot Drift: 0.188 ms | Send Time: 2025-06-10T15:37:14.757942, Receive Time: 2025-06-10T15:37:14.791641, Latency: 33.61 ms
+2025-06-10 15:37:14,830 [Agent 3] INFO: Slot Drift: 0.402 ms | Send Time: 2025-06-10T15:37:14.808154, Receive Time: 2025-06-10T15:37:14.830820, Latency: 22.59 ms
+2025-06-10 15:37:14,892 [Agent 3] INFO: Slot Drift: 0.530 ms | Send Time: 2025-06-10T15:37:14.858281, Receive Time: 2025-06-10T15:37:14.892066, Latency: 33.73 ms
+2025-06-10 15:37:14,929 [Agent 3] INFO: Slot Drift: -0.212 ms | Send Time: 2025-06-10T15:37:14.907542, Receive Time: 2025-06-10T15:37:14.929790, Latency: 22.16 ms
+2025-06-10 15:37:14,989 [Agent 3] INFO: Slot Drift: 0.618 ms | Send Time: 2025-06-10T15:37:14.958368, Receive Time: 2025-06-10T15:37:14.989826, Latency: 31.41 ms
+2025-06-10 15:37:15,041 [Agent 3] INFO: Slot Drift: 0.338 ms | Send Time: 2025-06-10T15:37:15.008088, Receive Time: 2025-06-10T15:37:15.041008, Latency: 32.89 ms
+2025-06-10 15:37:15,080 [Agent 3] INFO: Slot Drift: 0.522 ms | Send Time: 2025-06-10T15:37:15.058272, Receive Time: 2025-06-10T15:37:15.080022, Latency: 21.72 ms
+2025-06-10 15:37:15,148 [Agent 3] INFO: Slot Drift: 0.541 ms | Send Time: 2025-06-10T15:37:15.108290, Receive Time: 2025-06-10T15:37:15.148732, Latency: 40.40 ms
+2025-06-10 15:37:15,192 [Agent 3] INFO: Slot Drift: 0.224 ms | Send Time: 2025-06-10T15:37:15.157973, Receive Time: 2025-06-10T15:37:15.192300, Latency: 34.30 ms
+2025-06-10 15:37:15,245 [Agent 3] INFO: Slot Drift: -0.216 ms | Send Time: 2025-06-10T15:37:15.207543, Receive Time: 2025-06-10T15:37:15.245739, Latency: 38.15 ms
+2025-06-10 15:37:15,292 [Agent 3] INFO: Slot Drift: 0.240 ms | Send Time: 2025-06-10T15:37:15.257989, Receive Time: 2025-06-10T15:37:15.292145, Latency: 34.13 ms
+2025-06-10 15:37:15,344 [Agent 3] INFO: Slot Drift: -0.364 ms | Send Time: 2025-06-10T15:37:15.307388, Receive Time: 2025-06-10T15:37:15.344342, Latency: 36.91 ms
+2025-06-10 15:37:15,392 [Agent 3] INFO: Slot Drift: -0.198 ms | Send Time: 2025-06-10T15:37:15.357551, Receive Time: 2025-06-10T15:37:15.392632, Latency: 35.05 ms
+2025-06-10 15:37:15,445 [Agent 3] INFO: Slot Drift: 0.108 ms | Send Time: 2025-06-10T15:37:15.407857, Receive Time: 2025-06-10T15:37:15.445448, Latency: 37.57 ms
+2025-06-10 15:37:15,491 [Agent 3] INFO: Slot Drift: -0.054 ms | Send Time: 2025-06-10T15:37:15.457695, Receive Time: 2025-06-10T15:37:15.491569, Latency: 33.84 ms
+2025-06-10 15:37:15,545 [Agent 3] INFO: Slot Drift: 0.077 ms | Send Time: 2025-06-10T15:37:15.507827, Receive Time: 2025-06-10T15:37:15.545722, Latency: 37.86 ms
+2025-06-10 15:37:15,591 [Agent 3] INFO: Slot Drift: 0.235 ms | Send Time: 2025-06-10T15:37:15.557985, Receive Time: 2025-06-10T15:37:15.591772, Latency: 33.75 ms
+2025-06-10 15:37:15,608 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:15,651 [Agent 3] INFO: Slot Drift: 0.409 ms | Send Time: 2025-06-10T15:37:15.608158, Receive Time: 2025-06-10T15:37:15.651385, Latency: 43.20 ms
+2025-06-10 15:37:15,700 [Agent 3] INFO: Slot Drift: -0.141 ms | Send Time: 2025-06-10T15:37:15.657607, Receive Time: 2025-06-10T15:37:15.700012, Latency: 42.38 ms
+2025-06-10 15:37:15,750 [Agent 3] INFO: Slot Drift: 0.473 ms | Send Time: 2025-06-10T15:37:15.708222, Receive Time: 2025-06-10T15:37:15.750148, Latency: 41.90 ms
+2025-06-10 15:37:15,799 [Agent 3] INFO: Slot Drift: -0.381 ms | Send Time: 2025-06-10T15:37:15.757367, Receive Time: 2025-06-10T15:37:15.799268, Latency: 41.87 ms
+2025-06-10 15:37:15,850 [Agent 3] INFO: Slot Drift: -0.185 ms | Send Time: 2025-06-10T15:37:15.807565, Receive Time: 2025-06-10T15:37:15.850540, Latency: 42.94 ms
+2025-06-10 15:37:15,899 [Agent 3] INFO: Slot Drift: 0.004 ms | Send Time: 2025-06-10T15:37:15.857752, Receive Time: 2025-06-10T15:37:15.899444, Latency: 41.67 ms
+2025-06-10 15:37:15,950 [Agent 3] INFO: Slot Drift: -0.100 ms | Send Time: 2025-06-10T15:37:15.907648, Receive Time: 2025-06-10T15:37:15.950053, Latency: 42.38 ms
+2025-06-10 15:37:16,000 [Agent 3] INFO: Slot Drift: 0.564 ms | Send Time: 2025-06-10T15:37:15.958313, Receive Time: 2025-06-10T15:37:16.000197, Latency: 41.86 ms
+2025-06-10 15:37:16,050 [Agent 3] INFO: Slot Drift: -0.293 ms | Send Time: 2025-06-10T15:37:16.007455, Receive Time: 2025-06-10T15:37:16.050363, Latency: 42.88 ms
+2025-06-10 15:37:16,100 [Agent 3] INFO: Slot Drift: -0.160 ms | Send Time: 2025-06-10T15:37:16.057588, Receive Time: 2025-06-10T15:37:16.100024, Latency: 42.41 ms
+2025-06-10 15:37:16,156 [Agent 3] INFO: Slot Drift: 0.521 ms | Send Time: 2025-06-10T15:37:16.108270, Receive Time: 2025-06-10T15:37:16.156188, Latency: 47.89 ms
+2025-06-10 15:37:16,181 [Agent 3] INFO: Slot Drift: -0.333 ms | Send Time: 2025-06-10T15:37:16.157415, Receive Time: 2025-06-10T15:37:16.181563, Latency: 24.12 ms
+2025-06-10 15:37:16,254 [Agent 3] INFO: Slot Drift: 0.059 ms | Send Time: 2025-06-10T15:37:16.207808, Receive Time: 2025-06-10T15:37:16.254345, Latency: 46.50 ms
+2025-06-10 15:37:16,304 [Agent 3] INFO: Slot Drift: -0.163 ms | Send Time: 2025-06-10T15:37:16.257585, Receive Time: 2025-06-10T15:37:16.304474, Latency: 46.86 ms
+2025-06-10 15:37:16,354 [Agent 3] INFO: Slot Drift: -0.001 ms | Send Time: 2025-06-10T15:37:16.307748, Receive Time: 2025-06-10T15:37:16.354794, Latency: 47.02 ms
+2025-06-10 15:37:16,404 [Agent 3] INFO: Slot Drift: 0.271 ms | Send Time: 2025-06-10T15:37:16.358020, Receive Time: 2025-06-10T15:37:16.404454, Latency: 46.41 ms
+2025-06-10 15:37:16,453 [Agent 3] INFO: Slot Drift: -0.079 ms | Send Time: 2025-06-10T15:37:16.407670, Receive Time: 2025-06-10T15:37:16.453790, Latency: 46.09 ms
+2025-06-10 15:37:16,480 [Agent 3] INFO: Slot Drift: 0.268 ms | Send Time: 2025-06-10T15:37:16.458017, Receive Time: 2025-06-10T15:37:16.480405, Latency: 22.36 ms
+2025-06-10 15:37:16,554 [Agent 3] INFO: Slot Drift: -0.090 ms | Send Time: 2025-06-10T15:37:16.507661, Receive Time: 2025-06-10T15:37:16.554760, Latency: 47.05 ms
+2025-06-10 15:37:16,580 [Agent 3] INFO: Slot Drift: 0.289 ms | Send Time: 2025-06-10T15:37:16.558038, Receive Time: 2025-06-10T15:37:16.580663, Latency: 22.60 ms
+2025-06-10 15:37:16,609 [Agent 3] INFO: FPS - Send: 21, Result: 20
+2025-06-10 15:37:16,648 [Agent 3] INFO: Slot Drift: 0.186 ms | Send Time: 2025-06-10T15:37:16.607935, Receive Time: 2025-06-10T15:37:16.648515, Latency: 40.54 ms
+2025-06-10 15:37:16,692 [Agent 3] INFO: Slot Drift: -0.023 ms | Send Time: 2025-06-10T15:37:16.657726, Receive Time: 2025-06-10T15:37:16.692197, Latency: 34.44 ms
+2025-06-10 15:37:16,743 [Agent 3] INFO: Slot Drift: -0.321 ms | Send Time: 2025-06-10T15:37:16.707428, Receive Time: 2025-06-10T15:37:16.743167, Latency: 35.71 ms
+2025-06-10 15:37:16,792 [Agent 3] INFO: Slot Drift: -0.350 ms | Send Time: 2025-06-10T15:37:16.757399, Receive Time: 2025-06-10T15:37:16.792463, Latency: 35.03 ms
+2025-06-10 15:37:16,841 [Agent 3] INFO: Slot Drift: -0.042 ms | Send Time: 2025-06-10T15:37:16.807708, Receive Time: 2025-06-10T15:37:16.841802, Latency: 34.06 ms
+2025-06-10 15:37:16,893 [Agent 3] INFO: Slot Drift: 0.297 ms | Send Time: 2025-06-10T15:37:16.858047, Receive Time: 2025-06-10T15:37:16.893550, Latency: 35.47 ms
+2025-06-10 15:37:16,943 [Agent 3] INFO: Slot Drift: 0.100 ms | Send Time: 2025-06-10T15:37:16.907850, Receive Time: 2025-06-10T15:37:16.943400, Latency: 35.52 ms
+2025-06-10 15:37:16,991 [Agent 3] INFO: Slot Drift: -0.128 ms | Send Time: 2025-06-10T15:37:16.957622, Receive Time: 2025-06-10T15:37:16.991799, Latency: 34.15 ms
+2025-06-10 15:37:17,043 [Agent 3] INFO: Slot Drift: 0.329 ms | Send Time: 2025-06-10T15:37:17.008082, Receive Time: 2025-06-10T15:37:17.043512, Latency: 35.36 ms
+2025-06-10 15:37:17,094 [Agent 3] INFO: Slot Drift: 0.290 ms | Send Time: 2025-06-10T15:37:17.058042, Receive Time: 2025-06-10T15:37:17.094318, Latency: 36.20 ms
+2025-06-10 15:37:17,143 [Agent 3] INFO: Slot Drift: 0.174 ms | Send Time: 2025-06-10T15:37:17.107929, Receive Time: 2025-06-10T15:37:17.143372, Latency: 35.33 ms
+2025-06-10 15:37:17,192 [Agent 3] INFO: Slot Drift: 0.241 ms | Send Time: 2025-06-10T15:37:17.157995, Receive Time: 2025-06-10T15:37:17.192514, Latency: 34.43 ms
+2025-06-10 15:37:17,243 [Agent 3] INFO: Slot Drift: 0.444 ms | Send Time: 2025-06-10T15:37:17.208200, Receive Time: 2025-06-10T15:37:17.243107, Latency: 34.81 ms
+2025-06-10 15:37:17,295 [Agent 3] INFO: Slot Drift: -0.216 ms | Send Time: 2025-06-10T15:37:17.257536, Receive Time: 2025-06-10T15:37:17.295085, Latency: 37.47 ms
+2025-06-10 15:37:17,342 [Agent 3] INFO: Slot Drift: -0.300 ms | Send Time: 2025-06-10T15:37:17.307451, Receive Time: 2025-06-10T15:37:17.342420, Latency: 34.91 ms
+2025-06-10 15:37:17,392 [Agent 3] INFO: Slot Drift: -0.008 ms | Send Time: 2025-06-10T15:37:17.357741, Receive Time: 2025-06-10T15:37:17.392412, Latency: 34.64 ms
+2025-06-10 15:37:17,444 [Agent 3] INFO: Slot Drift: -0.086 ms | Send Time: 2025-06-10T15:37:17.407663, Receive Time: 2025-06-10T15:37:17.444268, Latency: 36.58 ms
+2025-06-10 15:37:17,493 [Agent 3] INFO: Slot Drift: -0.240 ms | Send Time: 2025-06-10T15:37:17.457509, Receive Time: 2025-06-10T15:37:17.493691, Latency: 36.15 ms
+2025-06-10 15:37:17,542 [Agent 3] INFO: Slot Drift: 0.167 ms | Send Time: 2025-06-10T15:37:17.507916, Receive Time: 2025-06-10T15:37:17.542546, Latency: 34.60 ms
+2025-06-10 15:37:17,593 [Agent 3] INFO: Slot Drift: 0.089 ms | Send Time: 2025-06-10T15:37:17.557839, Receive Time: 2025-06-10T15:37:17.593300, Latency: 35.43 ms
+2025-06-10 15:37:17,610 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:17,643 [Agent 3] INFO: Slot Drift: -0.075 ms | Send Time: 2025-06-10T15:37:17.607676, Receive Time: 2025-06-10T15:37:17.643823, Latency: 36.10 ms
+2025-06-10 15:37:17,695 [Agent 3] INFO: Slot Drift: -0.291 ms | Send Time: 2025-06-10T15:37:17.657463, Receive Time: 2025-06-10T15:37:17.694945, Latency: 37.39 ms
+2025-06-10 15:37:17,742 [Agent 3] INFO: Slot Drift: -0.108 ms | Send Time: 2025-06-10T15:37:17.707642, Receive Time: 2025-06-10T15:37:17.742892, Latency: 35.21 ms
+2025-06-10 15:37:17,791 [Agent 3] INFO: Slot Drift: 0.452 ms | Send Time: 2025-06-10T15:37:17.758202, Receive Time: 2025-06-10T15:37:17.791016, Latency: 32.77 ms
+2025-06-10 15:37:17,842 [Agent 3] INFO: Slot Drift: -0.336 ms | Send Time: 2025-06-10T15:37:17.807415, Receive Time: 2025-06-10T15:37:17.842256, Latency: 34.80 ms
+2025-06-10 15:37:17,895 [Agent 3] INFO: Slot Drift: -0.280 ms | Send Time: 2025-06-10T15:37:17.857469, Receive Time: 2025-06-10T15:37:17.895660, Latency: 38.16 ms
+2025-06-10 15:37:17,941 [Agent 3] INFO: Slot Drift: 0.145 ms | Send Time: 2025-06-10T15:37:17.907894, Receive Time: 2025-06-10T15:37:17.941891, Latency: 33.97 ms
+2025-06-10 15:37:17,991 [Agent 3] INFO: Slot Drift: 0.382 ms | Send Time: 2025-06-10T15:37:17.958131, Receive Time: 2025-06-10T15:37:17.991923, Latency: 33.76 ms
+2025-06-10 15:37:18,042 [Agent 3] INFO: Slot Drift: 0.395 ms | Send Time: 2025-06-10T15:37:18.008144, Receive Time: 2025-06-10T15:37:18.042232, Latency: 34.06 ms
+2025-06-10 15:37:18,091 [Agent 3] INFO: Slot Drift: -0.299 ms | Send Time: 2025-06-10T15:37:18.057449, Receive Time: 2025-06-10T15:37:18.091317, Latency: 33.84 ms
+2025-06-10 15:37:18,142 [Agent 3] INFO: Slot Drift: -0.200 ms | Send Time: 2025-06-10T15:37:18.107549, Receive Time: 2025-06-10T15:37:18.142952, Latency: 35.37 ms
+2025-06-10 15:37:18,191 [Agent 3] INFO: Slot Drift: 0.469 ms | Send Time: 2025-06-10T15:37:18.158218, Receive Time: 2025-06-10T15:37:18.191814, Latency: 33.56 ms
+2025-06-10 15:37:18,242 [Agent 3] INFO: Slot Drift: 0.287 ms | Send Time: 2025-06-10T15:37:18.208037, Receive Time: 2025-06-10T15:37:18.242933, Latency: 34.86 ms
+2025-06-10 15:37:18,291 [Agent 3] INFO: Slot Drift: 0.451 ms | Send Time: 2025-06-10T15:37:18.258200, Receive Time: 2025-06-10T15:37:18.291082, Latency: 32.85 ms
+2025-06-10 15:37:18,342 [Agent 3] INFO: Slot Drift: -0.385 ms | Send Time: 2025-06-10T15:37:18.307365, Receive Time: 2025-06-10T15:37:18.342851, Latency: 35.45 ms
+2025-06-10 15:37:18,393 [Agent 3] INFO: Slot Drift: 0.345 ms | Send Time: 2025-06-10T15:37:18.358094, Receive Time: 2025-06-10T15:37:18.393115, Latency: 34.99 ms
+2025-06-10 15:37:18,442 [Agent 3] INFO: Slot Drift: 0.606 ms | Send Time: 2025-06-10T15:37:18.408355, Receive Time: 2025-06-10T15:37:18.442625, Latency: 34.24 ms
+2025-06-10 15:37:18,492 [Agent 3] INFO: Slot Drift: 0.136 ms | Send Time: 2025-06-10T15:37:18.457885, Receive Time: 2025-06-10T15:37:18.492632, Latency: 34.72 ms
+2025-06-10 15:37:18,541 [Agent 3] INFO: Slot Drift: 0.124 ms | Send Time: 2025-06-10T15:37:18.507872, Receive Time: 2025-06-10T15:37:18.541859, Latency: 33.96 ms
+2025-06-10 15:37:18,592 [Agent 3] INFO: Slot Drift: 0.359 ms | Send Time: 2025-06-10T15:37:18.558108, Receive Time: 2025-06-10T15:37:18.592052, Latency: 33.91 ms
+2025-06-10 15:37:18,610 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:18,642 [Agent 3] INFO: Slot Drift: 0.511 ms | Send Time: 2025-06-10T15:37:18.608260, Receive Time: 2025-06-10T15:37:18.642700, Latency: 34.41 ms
+2025-06-10 15:37:18,693 [Agent 3] INFO: Slot Drift: 0.195 ms | Send Time: 2025-06-10T15:37:18.657944, Receive Time: 2025-06-10T15:37:18.693048, Latency: 35.07 ms
+2025-06-10 15:37:18,743 [Agent 3] INFO: Slot Drift: -0.162 ms | Send Time: 2025-06-10T15:37:18.707591, Receive Time: 2025-06-10T15:37:18.743584, Latency: 35.91 ms
+2025-06-10 15:37:18,791 [Agent 3] INFO: Slot Drift: 0.259 ms | Send Time: 2025-06-10T15:37:18.758010, Receive Time: 2025-06-10T15:37:18.791869, Latency: 33.80 ms
+2025-06-10 15:37:18,843 [Agent 3] INFO: Slot Drift: 0.680 ms | Send Time: 2025-06-10T15:37:18.808432, Receive Time: 2025-06-10T15:37:18.843212, Latency: 34.71 ms
+2025-06-10 15:37:18,892 [Agent 3] INFO: Slot Drift: -0.311 ms | Send Time: 2025-06-10T15:37:18.857439, Receive Time: 2025-06-10T15:37:18.892427, Latency: 34.95 ms
+2025-06-10 15:37:18,943 [Agent 3] INFO: Slot Drift: -0.075 ms | Send Time: 2025-06-10T15:37:18.907674, Receive Time: 2025-06-10T15:37:18.942969, Latency: 35.27 ms
+2025-06-10 15:37:18,992 [Agent 3] INFO: Slot Drift: 0.480 ms | Send Time: 2025-06-10T15:37:18.958230, Receive Time: 2025-06-10T15:37:18.992874, Latency: 34.61 ms
+2025-06-10 15:37:19,044 [Agent 3] INFO: Slot Drift: 0.356 ms | Send Time: 2025-06-10T15:37:19.008105, Receive Time: 2025-06-10T15:37:19.044021, Latency: 35.89 ms
+2025-06-10 15:37:19,093 [Agent 3] INFO: Slot Drift: 0.527 ms | Send Time: 2025-06-10T15:37:19.058276, Receive Time: 2025-06-10T15:37:19.092959, Latency: 34.65 ms
+2025-06-10 15:37:19,144 [Agent 3] INFO: Slot Drift: -0.144 ms | Send Time: 2025-06-10T15:37:19.107610, Receive Time: 2025-06-10T15:37:19.144693, Latency: 36.99 ms
+2025-06-10 15:37:19,193 [Agent 3] INFO: Slot Drift: 0.419 ms | Send Time: 2025-06-10T15:37:19.158169, Receive Time: 2025-06-10T15:37:19.193701, Latency: 35.49 ms
+2025-06-10 15:37:19,242 [Agent 3] INFO: Slot Drift: 0.272 ms | Send Time: 2025-06-10T15:37:19.208024, Receive Time: 2025-06-10T15:37:19.242905, Latency: 34.83 ms
+2025-06-10 15:37:19,290 [Agent 3] INFO: Slot Drift: 0.464 ms | Send Time: 2025-06-10T15:37:19.258214, Receive Time: 2025-06-10T15:37:19.290869, Latency: 32.61 ms
+2025-06-10 15:37:19,343 [Agent 3] INFO: Slot Drift: 0.434 ms | Send Time: 2025-06-10T15:37:19.308185, Receive Time: 2025-06-10T15:37:19.343889, Latency: 35.66 ms
+2025-06-10 15:37:19,392 [Agent 3] INFO: Slot Drift: 0.438 ms | Send Time: 2025-06-10T15:37:19.358188, Receive Time: 2025-06-10T15:37:19.392079, Latency: 33.85 ms
+2025-06-10 15:37:19,443 [Agent 3] INFO: Slot Drift: -0.386 ms | Send Time: 2025-06-10T15:37:19.407363, Receive Time: 2025-06-10T15:37:19.443617, Latency: 36.22 ms
+2025-06-10 15:37:19,492 [Agent 3] INFO: Slot Drift: 0.123 ms | Send Time: 2025-06-10T15:37:19.457873, Receive Time: 2025-06-10T15:37:19.491961, Latency: 34.05 ms
+2025-06-10 15:37:19,542 [Agent 3] INFO: Slot Drift: 0.488 ms | Send Time: 2025-06-10T15:37:19.508238, Receive Time: 2025-06-10T15:37:19.542243, Latency: 33.97 ms
+2025-06-10 15:37:19,592 [Agent 3] INFO: Slot Drift: -0.247 ms | Send Time: 2025-06-10T15:37:19.557502, Receive Time: 2025-06-10T15:37:19.592251, Latency: 34.72 ms
+2025-06-10 15:37:19,610 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:19,643 [Agent 3] INFO: Slot Drift: -0.249 ms | Send Time: 2025-06-10T15:37:19.607502, Receive Time: 2025-06-10T15:37:19.643205, Latency: 35.66 ms
+2025-06-10 15:37:19,694 [Agent 3] INFO: Slot Drift: 0.213 ms | Send Time: 2025-06-10T15:37:19.657969, Receive Time: 2025-06-10T15:37:19.694367, Latency: 36.31 ms
+2025-06-10 15:37:19,741 [Agent 3] INFO: Slot Drift: 0.194 ms | Send Time: 2025-06-10T15:37:19.707948, Receive Time: 2025-06-10T15:37:19.741589, Latency: 33.55 ms
+2025-06-10 15:37:19,794 [Agent 3] INFO: Slot Drift: 0.498 ms | Send Time: 2025-06-10T15:37:19.758251, Receive Time: 2025-06-10T15:37:19.794126, Latency: 35.79 ms
+2025-06-10 15:37:19,845 [Agent 3] INFO: Slot Drift: 0.212 ms | Send Time: 2025-06-10T15:37:19.807966, Receive Time: 2025-06-10T15:37:19.844957, Latency: 36.89 ms
+2025-06-10 15:37:19,893 [Agent 3] INFO: Slot Drift: -0.311 ms | Send Time: 2025-06-10T15:37:19.857441, Receive Time: 2025-06-10T15:37:19.893689, Latency: 36.18 ms
+2025-06-10 15:37:19,943 [Agent 3] INFO: Slot Drift: 0.349 ms | Send Time: 2025-06-10T15:37:19.908102, Receive Time: 2025-06-10T15:37:19.943556, Latency: 35.38 ms
+2025-06-10 15:37:19,992 [Agent 3] INFO: Slot Drift: 0.346 ms | Send Time: 2025-06-10T15:37:19.958098, Receive Time: 2025-06-10T15:37:19.991963, Latency: 33.80 ms
+2025-06-10 15:37:20,042 [Agent 3] INFO: Slot Drift: 0.640 ms | Send Time: 2025-06-10T15:37:20.008392, Receive Time: 2025-06-10T15:37:20.042216, Latency: 33.75 ms
+2025-06-10 15:37:20,093 [Agent 3] INFO: Slot Drift: -0.170 ms | Send Time: 2025-06-10T15:37:20.057581, Receive Time: 2025-06-10T15:37:20.093595, Latency: 35.96 ms
+2025-06-10 15:37:20,142 [Agent 3] INFO: Slot Drift: 0.221 ms | Send Time: 2025-06-10T15:37:20.107973, Receive Time: 2025-06-10T15:37:20.142535, Latency: 34.50 ms
+2025-06-10 15:37:20,192 [Agent 3] INFO: Slot Drift: 0.249 ms | Send Time: 2025-06-10T15:37:20.158003, Receive Time: 2025-06-10T15:37:20.192632, Latency: 34.55 ms
+2025-06-10 15:37:20,244 [Agent 3] INFO: Slot Drift: 0.377 ms | Send Time: 2025-06-10T15:37:20.208130, Receive Time: 2025-06-10T15:37:20.244189, Latency: 35.99 ms
+2025-06-10 15:37:20,292 [Agent 3] INFO: Slot Drift: -0.264 ms | Send Time: 2025-06-10T15:37:20.257486, Receive Time: 2025-06-10T15:37:20.292056, Latency: 34.53 ms
+2025-06-10 15:37:20,343 [Agent 3] INFO: Slot Drift: 0.618 ms | Send Time: 2025-06-10T15:37:20.308369, Receive Time: 2025-06-10T15:37:20.343002, Latency: 34.58 ms
+2025-06-10 15:37:20,390 [Agent 3] INFO: Slot Drift: 0.605 ms | Send Time: 2025-06-10T15:37:20.358356, Receive Time: 2025-06-10T15:37:20.390461, Latency: 32.05 ms
+2025-06-10 15:37:20,443 [Agent 3] INFO: Slot Drift: 0.057 ms | Send Time: 2025-06-10T15:37:20.407807, Receive Time: 2025-06-10T15:37:20.443319, Latency: 35.47 ms
+2025-06-10 15:37:20,491 [Agent 3] INFO: Slot Drift: -0.106 ms | Send Time: 2025-06-10T15:37:20.457644, Receive Time: 2025-06-10T15:37:20.491547, Latency: 33.87 ms
+2025-06-10 15:37:20,544 [Agent 3] INFO: Slot Drift: 0.180 ms | Send Time: 2025-06-10T15:37:20.507930, Receive Time: 2025-06-10T15:37:20.544528, Latency: 36.55 ms
+2025-06-10 15:37:20,593 [Agent 3] INFO: Slot Drift: 0.137 ms | Send Time: 2025-06-10T15:37:20.557886, Receive Time: 2025-06-10T15:37:20.593109, Latency: 35.19 ms
+2025-06-10 15:37:20,610 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:20,643 [Agent 3] INFO: Slot Drift: -0.347 ms | Send Time: 2025-06-10T15:37:20.607403, Receive Time: 2025-06-10T15:37:20.643096, Latency: 35.65 ms
+2025-06-10 15:37:20,693 [Agent 3] INFO: Slot Drift: -0.331 ms | Send Time: 2025-06-10T15:37:20.657419, Receive Time: 2025-06-10T15:37:20.693178, Latency: 35.72 ms
+2025-06-10 15:37:20,742 [Agent 3] INFO: Slot Drift: -0.262 ms | Send Time: 2025-06-10T15:37:20.707487, Receive Time: 2025-06-10T15:37:20.741998, Latency: 34.47 ms
+2025-06-10 15:37:20,793 [Agent 3] INFO: Slot Drift: 0.576 ms | Send Time: 2025-06-10T15:37:20.758330, Receive Time: 2025-06-10T15:37:20.793561, Latency: 35.15 ms
+2025-06-10 15:37:20,842 [Agent 3] INFO: Slot Drift: 0.096 ms | Send Time: 2025-06-10T15:37:20.807847, Receive Time: 2025-06-10T15:37:20.842423, Latency: 34.54 ms
+2025-06-10 15:37:20,892 [Agent 3] INFO: Slot Drift: -0.062 ms | Send Time: 2025-06-10T15:37:20.857688, Receive Time: 2025-06-10T15:37:20.892647, Latency: 34.93 ms
+2025-06-10 15:37:20,941 [Agent 3] INFO: Slot Drift: 0.120 ms | Send Time: 2025-06-10T15:37:20.907870, Receive Time: 2025-06-10T15:37:20.941521, Latency: 33.62 ms
+2025-06-10 15:37:20,990 [Agent 3] INFO: Slot Drift: 0.037 ms | Send Time: 2025-06-10T15:37:20.957787, Receive Time: 2025-06-10T15:37:20.990949, Latency: 33.13 ms
+2025-06-10 15:37:21,043 [Agent 3] INFO: Slot Drift: 0.443 ms | Send Time: 2025-06-10T15:37:21.008192, Receive Time: 2025-06-10T15:37:21.043342, Latency: 35.12 ms
+2025-06-10 15:37:21,093 [Agent 3] INFO: Slot Drift: 0.148 ms | Send Time: 2025-06-10T15:37:21.057901, Receive Time: 2025-06-10T15:37:21.093821, Latency: 35.84 ms
+2025-06-10 15:37:21,143 [Agent 3] INFO: Slot Drift: 0.634 ms | Send Time: 2025-06-10T15:37:21.108388, Receive Time: 2025-06-10T15:37:21.143719, Latency: 35.25 ms
+2025-06-10 15:37:21,193 [Agent 3] INFO: Slot Drift: 0.235 ms | Send Time: 2025-06-10T15:37:21.157985, Receive Time: 2025-06-10T15:37:21.193564, Latency: 35.53 ms
+2025-06-10 15:37:21,240 [Agent 3] INFO: Slot Drift: 0.057 ms | Send Time: 2025-06-10T15:37:21.207806, Receive Time: 2025-06-10T15:37:21.240419, Latency: 32.57 ms
+2025-06-10 15:37:21,291 [Agent 3] INFO: Slot Drift: -0.053 ms | Send Time: 2025-06-10T15:37:21.257696, Receive Time: 2025-06-10T15:37:21.291507, Latency: 33.78 ms
+2025-06-10 15:37:21,344 [Agent 3] INFO: Slot Drift: 0.037 ms | Send Time: 2025-06-10T15:37:21.307787, Receive Time: 2025-06-10T15:37:21.344308, Latency: 36.49 ms
+2025-06-10 15:37:21,393 [Agent 3] INFO: Slot Drift: -0.219 ms | Send Time: 2025-06-10T15:37:21.357530, Receive Time: 2025-06-10T15:37:21.393494, Latency: 35.92 ms
+2025-06-10 15:37:21,444 [Agent 3] INFO: Slot Drift: 0.012 ms | Send Time: 2025-06-10T15:37:21.407761, Receive Time: 2025-06-10T15:37:21.443980, Latency: 36.18 ms
+2025-06-10 15:37:21,493 [Agent 3] INFO: Slot Drift: 0.544 ms | Send Time: 2025-06-10T15:37:21.458294, Receive Time: 2025-06-10T15:37:21.493689, Latency: 35.35 ms
+2025-06-10 15:37:21,546 [Agent 3] INFO: Slot Drift: 0.281 ms | Send Time: 2025-06-10T15:37:21.508031, Receive Time: 2025-06-10T15:37:21.546189, Latency: 38.12 ms
+2025-06-10 15:37:21,593 [Agent 3] INFO: Slot Drift: -0.197 ms | Send Time: 2025-06-10T15:37:21.557552, Receive Time: 2025-06-10T15:37:21.593351, Latency: 35.77 ms
+2025-06-10 15:37:21,611 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:21,642 [Agent 3] INFO: Slot Drift: -0.090 ms | Send Time: 2025-06-10T15:37:21.607660, Receive Time: 2025-06-10T15:37:21.642341, Latency: 34.64 ms
+2025-06-10 15:37:21,693 [Agent 3] INFO: Slot Drift: -0.009 ms | Send Time: 2025-06-10T15:37:21.657745, Receive Time: 2025-06-10T15:37:21.692934, Latency: 35.10 ms
+2025-06-10 15:37:21,742 [Agent 3] INFO: Slot Drift: -0.122 ms | Send Time: 2025-06-10T15:37:21.707634, Receive Time: 2025-06-10T15:37:21.742113, Latency: 34.35 ms
+2025-06-10 15:37:21,795 [Agent 3] INFO: Slot Drift: -0.294 ms | Send Time: 2025-06-10T15:37:21.757459, Receive Time: 2025-06-10T15:37:21.795340, Latency: 37.79 ms
+2025-06-10 15:37:21,842 [Agent 3] INFO: Slot Drift: 0.275 ms | Send Time: 2025-06-10T15:37:21.808030, Receive Time: 2025-06-10T15:37:21.842355, Latency: 34.22 ms
+2025-06-10 15:37:21,892 [Agent 3] INFO: Slot Drift: 0.267 ms | Send Time: 2025-06-10T15:37:21.858021, Receive Time: 2025-06-10T15:37:21.892440, Latency: 34.34 ms
+2025-06-10 15:37:21,942 [Agent 3] INFO: Slot Drift: 0.114 ms | Send Time: 2025-06-10T15:37:21.907864, Receive Time: 2025-06-10T15:37:21.942945, Latency: 35.05 ms
+2025-06-10 15:37:21,992 [Agent 3] INFO: Slot Drift: 0.504 ms | Send Time: 2025-06-10T15:37:21.958254, Receive Time: 2025-06-10T15:37:21.992260, Latency: 33.97 ms
+2025-06-10 15:37:22,042 [Agent 3] INFO: Slot Drift: -0.174 ms | Send Time: 2025-06-10T15:37:22.007575, Receive Time: 2025-06-10T15:37:22.042653, Latency: 35.04 ms
+2025-06-10 15:37:22,091 [Agent 3] INFO: Slot Drift: 0.179 ms | Send Time: 2025-06-10T15:37:22.057928, Receive Time: 2025-06-10T15:37:22.091668, Latency: 33.71 ms
+2025-06-10 15:37:22,144 [Agent 3] INFO: Slot Drift: 0.184 ms | Send Time: 2025-06-10T15:37:22.107934, Receive Time: 2025-06-10T15:37:22.144204, Latency: 36.23 ms
+2025-06-10 15:37:22,193 [Agent 3] INFO: Slot Drift: -0.245 ms | Send Time: 2025-06-10T15:37:22.157506, Receive Time: 2025-06-10T15:37:22.193439, Latency: 35.88 ms
+2025-06-10 15:37:22,242 [Agent 3] INFO: Slot Drift: 0.065 ms | Send Time: 2025-06-10T15:37:22.207816, Receive Time: 2025-06-10T15:37:22.242446, Latency: 34.58 ms
+2025-06-10 15:37:22,293 [Agent 3] INFO: Slot Drift: -0.011 ms | Send Time: 2025-06-10T15:37:22.257740, Receive Time: 2025-06-10T15:37:22.293617, Latency: 35.84 ms
+2025-06-10 15:37:22,341 [Agent 3] INFO: Slot Drift: 0.172 ms | Send Time: 2025-06-10T15:37:22.307923, Receive Time: 2025-06-10T15:37:22.341866, Latency: 33.90 ms
+2025-06-10 15:37:22,391 [Agent 3] INFO: Slot Drift: 0.425 ms | Send Time: 2025-06-10T15:37:22.358175, Receive Time: 2025-06-10T15:37:22.391007, Latency: 32.79 ms
+2025-06-10 15:37:22,441 [Agent 3] INFO: Slot Drift: 0.576 ms | Send Time: 2025-06-10T15:37:22.408325, Receive Time: 2025-06-10T15:37:22.441636, Latency: 33.28 ms
+2025-06-10 15:37:22,494 [Agent 3] INFO: Slot Drift: 0.194 ms | Send Time: 2025-06-10T15:37:22.457944, Receive Time: 2025-06-10T15:37:22.494284, Latency: 36.31 ms
+2025-06-10 15:37:22,542 [Agent 3] INFO: Slot Drift: -0.259 ms | Send Time: 2025-06-10T15:37:22.507490, Receive Time: 2025-06-10T15:37:22.542447, Latency: 34.93 ms
+2025-06-10 15:37:22,591 [Agent 3] INFO: Slot Drift: -0.070 ms | Send Time: 2025-06-10T15:37:22.557680, Receive Time: 2025-06-10T15:37:22.590970, Latency: 33.26 ms
+2025-06-10 15:37:22,611 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:22,642 [Agent 3] INFO: Slot Drift: 0.474 ms | Send Time: 2025-06-10T15:37:22.608223, Receive Time: 2025-06-10T15:37:22.642400, Latency: 34.15 ms
+2025-06-10 15:37:22,693 [Agent 3] INFO: Slot Drift: -0.102 ms | Send Time: 2025-06-10T15:37:22.657648, Receive Time: 2025-06-10T15:37:22.692935, Latency: 35.25 ms
+2025-06-10 15:37:22,744 [Agent 3] INFO: Slot Drift: -0.173 ms | Send Time: 2025-06-10T15:37:22.707582, Receive Time: 2025-06-10T15:37:22.744330, Latency: 36.66 ms
+2025-06-10 15:37:22,794 [Agent 3] INFO: Slot Drift: 0.205 ms | Send Time: 2025-06-10T15:37:22.757959, Receive Time: 2025-06-10T15:37:22.794511, Latency: 36.47 ms
+2025-06-10 15:37:22,844 [Agent 3] INFO: Slot Drift: 0.442 ms | Send Time: 2025-06-10T15:37:22.808199, Receive Time: 2025-06-10T15:37:22.844472, Latency: 36.17 ms
+2025-06-10 15:37:22,891 [Agent 3] INFO: Slot Drift: -0.048 ms | Send Time: 2025-06-10T15:37:22.857701, Receive Time: 2025-06-10T15:37:22.891938, Latency: 34.21 ms
+2025-06-10 15:37:22,943 [Agent 3] INFO: Slot Drift: 0.423 ms | Send Time: 2025-06-10T15:37:22.908172, Receive Time: 2025-06-10T15:37:22.943223, Latency: 35.02 ms
+2025-06-10 15:37:22,990 [Agent 3] INFO: Slot Drift: -0.254 ms | Send Time: 2025-06-10T15:37:22.957496, Receive Time: 2025-06-10T15:37:22.990542, Latency: 33.01 ms
+2025-06-10 15:37:23,043 [Agent 3] INFO: Slot Drift: 0.027 ms | Send Time: 2025-06-10T15:37:23.007776, Receive Time: 2025-06-10T15:37:23.043190, Latency: 35.39 ms
+2025-06-10 15:37:23,092 [Agent 3] INFO: Slot Drift: -0.363 ms | Send Time: 2025-06-10T15:37:23.057386, Receive Time: 2025-06-10T15:37:23.092460, Latency: 35.05 ms
+2025-06-10 15:37:23,142 [Agent 3] INFO: Slot Drift: -0.018 ms | Send Time: 2025-06-10T15:37:23.107732, Receive Time: 2025-06-10T15:37:23.142508, Latency: 34.75 ms
+2025-06-10 15:37:23,192 [Agent 3] INFO: Slot Drift: -0.015 ms | Send Time: 2025-06-10T15:37:23.157734, Receive Time: 2025-06-10T15:37:23.192899, Latency: 35.13 ms
+2025-06-10 15:37:23,242 [Agent 3] INFO: Slot Drift: 0.466 ms | Send Time: 2025-06-10T15:37:23.208216, Receive Time: 2025-06-10T15:37:23.242074, Latency: 33.82 ms
+2025-06-10 15:37:23,292 [Agent 3] INFO: Slot Drift: 0.586 ms | Send Time: 2025-06-10T15:37:23.258335, Receive Time: 2025-06-10T15:37:23.292193, Latency: 33.83 ms
+2025-06-10 15:37:23,341 [Agent 3] INFO: Slot Drift: -0.316 ms | Send Time: 2025-06-10T15:37:23.307435, Receive Time: 2025-06-10T15:37:23.341413, Latency: 33.95 ms
+2025-06-10 15:37:23,393 [Agent 3] INFO: Slot Drift: -0.075 ms | Send Time: 2025-06-10T15:37:23.357674, Receive Time: 2025-06-10T15:37:23.393058, Latency: 35.35 ms
+2025-06-10 15:37:23,441 [Agent 3] INFO: Slot Drift: 0.557 ms | Send Time: 2025-06-10T15:37:23.408306, Receive Time: 2025-06-10T15:37:23.441782, Latency: 33.45 ms
+2025-06-10 15:37:23,492 [Agent 3] INFO: Slot Drift: 0.284 ms | Send Time: 2025-06-10T15:37:23.458033, Receive Time: 2025-06-10T15:37:23.492545, Latency: 34.48 ms
+2025-06-10 15:37:23,543 [Agent 3] INFO: Slot Drift: 0.019 ms | Send Time: 2025-06-10T15:37:23.507768, Receive Time: 2025-06-10T15:37:23.543704, Latency: 35.91 ms
+2025-06-10 15:37:23,591 [Agent 3] INFO: Slot Drift: 0.167 ms | Send Time: 2025-06-10T15:37:23.557917, Receive Time: 2025-06-10T15:37:23.591335, Latency: 33.39 ms
+2025-06-10 15:37:23,611 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:23,642 [Agent 3] INFO: Slot Drift: -0.200 ms | Send Time: 2025-06-10T15:37:23.607549, Receive Time: 2025-06-10T15:37:23.642418, Latency: 34.84 ms
+2025-06-10 15:37:23,691 [Agent 3] INFO: Slot Drift: -0.115 ms | Send Time: 2025-06-10T15:37:23.657634, Receive Time: 2025-06-10T15:37:23.691241, Latency: 33.58 ms
+2025-06-10 15:37:23,743 [Agent 3] INFO: Slot Drift: -0.271 ms | Send Time: 2025-06-10T15:37:23.707479, Receive Time: 2025-06-10T15:37:23.743028, Latency: 35.52 ms
+2025-06-10 15:37:23,791 [Agent 3] INFO: Slot Drift: 0.514 ms | Send Time: 2025-06-10T15:37:23.758263, Receive Time: 2025-06-10T15:37:23.791471, Latency: 33.18 ms
+2025-06-10 15:37:23,842 [Agent 3] INFO: Slot Drift: 0.045 ms | Send Time: 2025-06-10T15:37:23.807795, Receive Time: 2025-06-10T15:37:23.842039, Latency: 34.21 ms
+2025-06-10 15:37:23,891 [Agent 3] INFO: Slot Drift: 0.523 ms | Send Time: 2025-06-10T15:37:23.858273, Receive Time: 2025-06-10T15:37:23.891382, Latency: 33.08 ms
+2025-06-10 15:37:23,942 [Agent 3] INFO: Slot Drift: -0.106 ms | Send Time: 2025-06-10T15:37:23.907643, Receive Time: 2025-06-10T15:37:23.942850, Latency: 35.18 ms
+2025-06-10 15:37:23,991 [Agent 3] INFO: Slot Drift: 0.331 ms | Send Time: 2025-06-10T15:37:23.958081, Receive Time: 2025-06-10T15:37:23.991950, Latency: 33.84 ms
+2025-06-10 15:37:24,043 [Agent 3] INFO: Slot Drift: 0.465 ms | Send Time: 2025-06-10T15:37:24.008214, Receive Time: 2025-06-10T15:37:24.042985, Latency: 34.74 ms
+2025-06-10 15:37:24,089 [Agent 3] INFO: Slot Drift: 0.478 ms | Send Time: 2025-06-10T15:37:24.058227, Receive Time: 2025-06-10T15:37:24.089684, Latency: 31.43 ms
+2025-06-10 15:37:24,143 [Agent 3] INFO: Slot Drift: 0.175 ms | Send Time: 2025-06-10T15:37:24.107924, Receive Time: 2025-06-10T15:37:24.143507, Latency: 35.55 ms
+2025-06-10 15:37:24,192 [Agent 3] INFO: Slot Drift: -0.009 ms | Send Time: 2025-06-10T15:37:24.157742, Receive Time: 2025-06-10T15:37:24.192424, Latency: 34.65 ms
+2025-06-10 15:37:24,243 [Agent 3] INFO: Slot Drift: -0.071 ms | Send Time: 2025-06-10T15:37:24.207680, Receive Time: 2025-06-10T15:37:24.243285, Latency: 35.56 ms
+2025-06-10 15:37:24,291 [Agent 3] INFO: Slot Drift: -0.239 ms | Send Time: 2025-06-10T15:37:24.257511, Receive Time: 2025-06-10T15:37:24.291547, Latency: 34.01 ms
+2025-06-10 15:37:24,341 [Agent 3] INFO: Slot Drift: 0.072 ms | Send Time: 2025-06-10T15:37:24.307822, Receive Time: 2025-06-10T15:37:24.341761, Latency: 33.91 ms
+2025-06-10 15:37:24,392 [Agent 3] INFO: Slot Drift: 0.241 ms | Send Time: 2025-06-10T15:37:24.357991, Receive Time: 2025-06-10T15:37:24.392806, Latency: 34.79 ms
+2025-06-10 15:37:24,441 [Agent 3] INFO: Slot Drift: 0.311 ms | Send Time: 2025-06-10T15:37:24.408059, Receive Time: 2025-06-10T15:37:24.441088, Latency: 33.00 ms
+2025-06-10 15:37:24,491 [Agent 3] INFO: Slot Drift: 0.553 ms | Send Time: 2025-06-10T15:37:24.458302, Receive Time: 2025-06-10T15:37:24.491059, Latency: 32.73 ms
+2025-06-10 15:37:24,542 [Agent 3] INFO: Slot Drift: 0.556 ms | Send Time: 2025-06-10T15:37:24.508304, Receive Time: 2025-06-10T15:37:24.542241, Latency: 33.91 ms
+2025-06-10 15:37:24,592 [Agent 3] INFO: Slot Drift: -0.208 ms | Send Time: 2025-06-10T15:37:24.557542, Receive Time: 2025-06-10T15:37:24.592729, Latency: 35.16 ms
+2025-06-10 15:37:24,612 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:24,640 [Agent 3] INFO: Slot Drift: 0.212 ms | Send Time: 2025-06-10T15:37:24.607961, Receive Time: 2025-06-10T15:37:24.640622, Latency: 32.63 ms
+2025-06-10 15:37:24,693 [Agent 3] INFO: Slot Drift: 0.077 ms | Send Time: 2025-06-10T15:37:24.657826, Receive Time: 2025-06-10T15:37:24.693261, Latency: 35.41 ms
+2025-06-10 15:37:24,742 [Agent 3] INFO: Slot Drift: 0.201 ms | Send Time: 2025-06-10T15:37:24.707956, Receive Time: 2025-06-10T15:37:24.742852, Latency: 34.78 ms
+2025-06-10 15:37:24,793 [Agent 3] INFO: Slot Drift: -0.257 ms | Send Time: 2025-06-10T15:37:24.757495, Receive Time: 2025-06-10T15:37:24.793415, Latency: 35.83 ms
+2025-06-10 15:37:24,843 [Agent 3] INFO: Slot Drift: 0.028 ms | Send Time: 2025-06-10T15:37:24.807779, Receive Time: 2025-06-10T15:37:24.843040, Latency: 35.20 ms
+2025-06-10 15:37:24,891 [Agent 3] INFO: Slot Drift: -0.262 ms | Send Time: 2025-06-10T15:37:24.857488, Receive Time: 2025-06-10T15:37:24.891667, Latency: 34.13 ms
+2025-06-10 15:37:24,942 [Agent 3] INFO: Slot Drift: 0.549 ms | Send Time: 2025-06-10T15:37:24.908302, Receive Time: 2025-06-10T15:37:24.942043, Latency: 33.66 ms
+2025-06-10 15:37:24,993 [Agent 3] INFO: Slot Drift: -0.345 ms | Send Time: 2025-06-10T15:37:24.957405, Receive Time: 2025-06-10T15:37:24.993324, Latency: 35.87 ms
+2025-06-10 15:37:25,041 [Agent 3] INFO: Slot Drift: -0.100 ms | Send Time: 2025-06-10T15:37:25.007650, Receive Time: 2025-06-10T15:37:25.041605, Latency: 33.92 ms
+2025-06-10 15:37:25,092 [Agent 3] INFO: Slot Drift: 0.139 ms | Send Time: 2025-06-10T15:37:25.057889, Receive Time: 2025-06-10T15:37:25.092304, Latency: 34.38 ms
+2025-06-10 15:37:25,142 [Agent 3] INFO: Slot Drift: -0.140 ms | Send Time: 2025-06-10T15:37:25.107612, Receive Time: 2025-06-10T15:37:25.142600, Latency: 34.94 ms
+2025-06-10 15:37:25,192 [Agent 3] INFO: Slot Drift: 0.124 ms | Send Time: 2025-06-10T15:37:25.157874, Receive Time: 2025-06-10T15:37:25.192582, Latency: 34.67 ms
+2025-06-10 15:37:25,242 [Agent 3] INFO: Slot Drift: 0.139 ms | Send Time: 2025-06-10T15:37:25.207890, Receive Time: 2025-06-10T15:37:25.242778, Latency: 34.85 ms
+2025-06-10 15:37:25,291 [Agent 3] INFO: Slot Drift: 0.366 ms | Send Time: 2025-06-10T15:37:25.258116, Receive Time: 2025-06-10T15:37:25.291030, Latency: 32.87 ms
+2025-06-10 15:37:25,342 [Agent 3] INFO: Slot Drift: -0.333 ms | Send Time: 2025-06-10T15:37:25.307418, Receive Time: 2025-06-10T15:37:25.342863, Latency: 35.40 ms
+2025-06-10 15:37:25,392 [Agent 3] INFO: Slot Drift: 0.396 ms | Send Time: 2025-06-10T15:37:25.358147, Receive Time: 2025-06-10T15:37:25.392025, Latency: 33.84 ms
+2025-06-10 15:37:25,443 [Agent 3] INFO: Slot Drift: 0.574 ms | Send Time: 2025-06-10T15:37:25.408324, Receive Time: 2025-06-10T15:37:25.443229, Latency: 34.87 ms
+2025-06-10 15:37:25,493 [Agent 3] INFO: Slot Drift: -0.125 ms | Send Time: 2025-06-10T15:37:25.457626, Receive Time: 2025-06-10T15:37:25.493439, Latency: 35.77 ms
+2025-06-10 15:37:25,543 [Agent 3] INFO: Slot Drift: 0.115 ms | Send Time: 2025-06-10T15:37:25.507865, Receive Time: 2025-06-10T15:37:25.542988, Latency: 35.07 ms
+2025-06-10 15:37:25,591 [Agent 3] INFO: Slot Drift: -0.330 ms | Send Time: 2025-06-10T15:37:25.557420, Receive Time: 2025-06-10T15:37:25.591449, Latency: 34.00 ms
+2025-06-10 15:37:25,613 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:25,642 [Agent 3] INFO: Slot Drift: 0.058 ms | Send Time: 2025-06-10T15:37:25.607810, Receive Time: 2025-06-10T15:37:25.642334, Latency: 34.47 ms
+2025-06-10 15:37:25,693 [Agent 3] INFO: Slot Drift: -0.093 ms | Send Time: 2025-06-10T15:37:25.657658, Receive Time: 2025-06-10T15:37:25.693147, Latency: 35.43 ms
+2025-06-10 15:37:25,744 [Agent 3] INFO: Slot Drift: -0.026 ms | Send Time: 2025-06-10T15:37:25.707727, Receive Time: 2025-06-10T15:37:25.744179, Latency: 36.36 ms
+2025-06-10 15:37:25,797 [Agent 3] INFO: Slot Drift: 0.063 ms | Send Time: 2025-06-10T15:37:25.757816, Receive Time: 2025-06-10T15:37:25.797015, Latency: 39.11 ms
+2025-06-10 15:37:25,843 [Agent 3] INFO: Slot Drift: -0.047 ms | Send Time: 2025-06-10T15:37:25.807710, Receive Time: 2025-06-10T15:37:25.842950, Latency: 35.14 ms
+2025-06-10 15:37:25,892 [Agent 3] INFO: Slot Drift: -0.321 ms | Send Time: 2025-06-10T15:37:25.857433, Receive Time: 2025-06-10T15:37:25.892934, Latency: 35.42 ms
+2025-06-10 15:37:25,942 [Agent 3] INFO: Slot Drift: 0.426 ms | Send Time: 2025-06-10T15:37:25.908175, Receive Time: 2025-06-10T15:37:25.942131, Latency: 33.93 ms
+2025-06-10 15:37:25,992 [Agent 3] INFO: Slot Drift: 0.620 ms | Send Time: 2025-06-10T15:37:25.958369, Receive Time: 2025-06-10T15:37:25.992685, Latency: 34.29 ms
+2025-06-10 15:37:26,041 [Agent 3] INFO: Slot Drift: 0.181 ms | Send Time: 2025-06-10T15:37:26.007930, Receive Time: 2025-06-10T15:37:26.041881, Latency: 33.92 ms
+2025-06-10 15:37:26,092 [Agent 3] INFO: Slot Drift: -0.292 ms | Send Time: 2025-06-10T15:37:26.057461, Receive Time: 2025-06-10T15:37:26.092806, Latency: 35.26 ms
+2025-06-10 15:37:26,143 [Agent 3] INFO: Slot Drift: 0.638 ms | Send Time: 2025-06-10T15:37:26.108394, Receive Time: 2025-06-10T15:37:26.143582, Latency: 35.08 ms
+2025-06-10 15:37:26,193 [Agent 3] INFO: Slot Drift: 0.482 ms | Send Time: 2025-06-10T15:37:26.158232, Receive Time: 2025-06-10T15:37:26.192998, Latency: 34.73 ms
+2025-06-10 15:37:26,242 [Agent 3] INFO: Slot Drift: 0.489 ms | Send Time: 2025-06-10T15:37:26.208239, Receive Time: 2025-06-10T15:37:26.242132, Latency: 33.86 ms
+2025-06-10 15:37:26,292 [Agent 3] INFO: Slot Drift: 0.606 ms | Send Time: 2025-06-10T15:37:26.258355, Receive Time: 2025-06-10T15:37:26.292779, Latency: 34.39 ms
+2025-06-10 15:37:26,341 [Agent 3] INFO: Slot Drift: 0.266 ms | Send Time: 2025-06-10T15:37:26.308016, Receive Time: 2025-06-10T15:37:26.341849, Latency: 33.80 ms
+2025-06-10 15:37:26,391 [Agent 3] INFO: Slot Drift: 0.372 ms | Send Time: 2025-06-10T15:37:26.358121, Receive Time: 2025-06-10T15:37:26.391902, Latency: 33.75 ms
+2025-06-10 15:37:26,442 [Agent 3] INFO: Slot Drift: 0.396 ms | Send Time: 2025-06-10T15:37:26.408145, Receive Time: 2025-06-10T15:37:26.442631, Latency: 34.46 ms
+2025-06-10 15:37:26,494 [Agent 3] INFO: Slot Drift: 0.220 ms | Send Time: 2025-06-10T15:37:26.457975, Receive Time: 2025-06-10T15:37:26.494631, Latency: 36.54 ms
+2025-06-10 15:37:26,542 [Agent 3] INFO: Slot Drift: 0.422 ms | Send Time: 2025-06-10T15:37:26.508175, Receive Time: 2025-06-10T15:37:26.542654, Latency: 34.40 ms
+2025-06-10 15:37:26,590 [Agent 3] INFO: Slot Drift: 0.163 ms | Send Time: 2025-06-10T15:37:26.557912, Receive Time: 2025-06-10T15:37:26.590218, Latency: 32.27 ms
+2025-06-10 15:37:26,613 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:26,641 [Agent 3] INFO: Slot Drift: -0.290 ms | Send Time: 2025-06-10T15:37:26.607460, Receive Time: 2025-06-10T15:37:26.641899, Latency: 34.39 ms
+2025-06-10 15:37:26,692 [Agent 3] INFO: Slot Drift: 0.638 ms | Send Time: 2025-06-10T15:37:26.658391, Receive Time: 2025-06-10T15:37:26.692448, Latency: 33.97 ms
+2025-06-10 15:37:26,743 [Agent 3] INFO: Slot Drift: 0.349 ms | Send Time: 2025-06-10T15:37:26.708103, Receive Time: 2025-06-10T15:37:26.743746, Latency: 35.55 ms
+2025-06-10 15:37:26,795 [Agent 3] INFO: Slot Drift: 0.616 ms | Send Time: 2025-06-10T15:37:26.758370, Receive Time: 2025-06-10T15:37:26.794842, Latency: 36.38 ms
+2025-06-10 15:37:26,843 [Agent 3] INFO: Slot Drift: 0.207 ms | Send Time: 2025-06-10T15:37:26.807964, Receive Time: 2025-06-10T15:37:26.843832, Latency: 35.75 ms
+2025-06-10 15:37:26,893 [Agent 3] INFO: Slot Drift: -0.254 ms | Send Time: 2025-06-10T15:37:26.857501, Receive Time: 2025-06-10T15:37:26.892921, Latency: 35.33 ms
+2025-06-10 15:37:26,941 [Agent 3] INFO: Slot Drift: 0.693 ms | Send Time: 2025-06-10T15:37:26.908446, Receive Time: 2025-06-10T15:37:26.941496, Latency: 32.97 ms
+2025-06-10 15:37:26,993 [Agent 3] INFO: Slot Drift: 0.300 ms | Send Time: 2025-06-10T15:37:26.958053, Receive Time: 2025-06-10T15:37:26.993134, Latency: 34.98 ms
+2025-06-10 15:37:27,043 [Agent 3] INFO: Slot Drift: -0.078 ms | Send Time: 2025-06-10T15:37:27.007676, Receive Time: 2025-06-10T15:37:27.042913, Latency: 35.15 ms
+2025-06-10 15:37:27,093 [Agent 3] INFO: Slot Drift: -0.244 ms | Send Time: 2025-06-10T15:37:27.057513, Receive Time: 2025-06-10T15:37:27.093833, Latency: 36.21 ms
+2025-06-10 15:37:27,143 [Agent 3] INFO: Slot Drift: -0.246 ms | Send Time: 2025-06-10T15:37:27.107509, Receive Time: 2025-06-10T15:37:27.143329, Latency: 35.71 ms
+2025-06-10 15:37:27,193 [Agent 3] INFO: Slot Drift: 0.230 ms | Send Time: 2025-06-10T15:37:27.157980, Receive Time: 2025-06-10T15:37:27.193397, Latency: 35.38 ms
+2025-06-10 15:37:27,242 [Agent 3] INFO: Slot Drift: -0.021 ms | Send Time: 2025-06-10T15:37:27.207730, Receive Time: 2025-06-10T15:37:27.242821, Latency: 35.04 ms
+2025-06-10 15:37:27,291 [Agent 3] INFO: Slot Drift: 0.509 ms | Send Time: 2025-06-10T15:37:27.258260, Receive Time: 2025-06-10T15:37:27.291767, Latency: 33.46 ms
+2025-06-10 15:37:27,342 [Agent 3] INFO: Slot Drift: 0.433 ms | Send Time: 2025-06-10T15:37:27.308184, Receive Time: 2025-06-10T15:37:27.342627, Latency: 34.39 ms
+2025-06-10 15:37:27,392 [Agent 3] INFO: Slot Drift: 0.223 ms | Send Time: 2025-06-10T15:37:27.357974, Receive Time: 2025-06-10T15:37:27.392816, Latency: 34.80 ms
+2025-06-10 15:37:27,442 [Agent 3] INFO: Slot Drift: 0.325 ms | Send Time: 2025-06-10T15:37:27.408075, Receive Time: 2025-06-10T15:37:27.442927, Latency: 34.82 ms
+2025-06-10 15:37:27,493 [Agent 3] INFO: Slot Drift: 0.504 ms | Send Time: 2025-06-10T15:37:27.458254, Receive Time: 2025-06-10T15:37:27.493052, Latency: 34.77 ms
+2025-06-10 15:37:27,542 [Agent 3] INFO: Slot Drift: 0.531 ms | Send Time: 2025-06-10T15:37:27.508281, Receive Time: 2025-06-10T15:37:27.542312, Latency: 33.98 ms
+2025-06-10 15:37:27,591 [Agent 3] INFO: Slot Drift: -0.187 ms | Send Time: 2025-06-10T15:37:27.557563, Receive Time: 2025-06-10T15:37:27.591862, Latency: 34.27 ms
+2025-06-10 15:37:27,613 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:27,642 [Agent 3] INFO: Slot Drift: 0.313 ms | Send Time: 2025-06-10T15:37:27.608061, Receive Time: 2025-06-10T15:37:27.642820, Latency: 34.73 ms
+2025-06-10 15:37:27,692 [Agent 3] INFO: Slot Drift: 0.267 ms | Send Time: 2025-06-10T15:37:27.658016, Receive Time: 2025-06-10T15:37:27.692323, Latency: 34.28 ms
+2025-06-10 15:37:27,741 [Agent 3] INFO: Slot Drift: -0.208 ms | Send Time: 2025-06-10T15:37:27.707541, Receive Time: 2025-06-10T15:37:27.741089, Latency: 33.52 ms
+2025-06-10 15:37:27,791 [Agent 3] INFO: Slot Drift: 0.557 ms | Send Time: 2025-06-10T15:37:27.758305, Receive Time: 2025-06-10T15:37:27.791638, Latency: 33.31 ms
+2025-06-10 15:37:27,840 [Agent 3] INFO: Slot Drift: 0.129 ms | Send Time: 2025-06-10T15:37:27.807879, Receive Time: 2025-06-10T15:37:27.840779, Latency: 32.87 ms
+2025-06-10 15:37:27,894 [Agent 3] INFO: Slot Drift: 0.250 ms | Send Time: 2025-06-10T15:37:27.857999, Receive Time: 2025-06-10T15:37:27.894133, Latency: 36.11 ms
+2025-06-10 15:37:27,942 [Agent 3] INFO: Slot Drift: 0.594 ms | Send Time: 2025-06-10T15:37:27.908342, Receive Time: 2025-06-10T15:37:27.942159, Latency: 33.79 ms
+2025-06-10 15:37:27,990 [Agent 3] INFO: Slot Drift: -0.380 ms | Send Time: 2025-06-10T15:37:27.957369, Receive Time: 2025-06-10T15:37:27.990669, Latency: 33.27 ms
+2025-06-10 15:37:28,042 [Agent 3] INFO: Slot Drift: 0.156 ms | Send Time: 2025-06-10T15:37:28.007905, Receive Time: 2025-06-10T15:37:28.042287, Latency: 34.35 ms
+2025-06-10 15:37:28,092 [Agent 3] INFO: Slot Drift: -0.261 ms | Send Time: 2025-06-10T15:37:28.057487, Receive Time: 2025-06-10T15:37:28.092089, Latency: 34.58 ms
+2025-06-10 15:37:28,142 [Agent 3] INFO: Slot Drift: 0.560 ms | Send Time: 2025-06-10T15:37:28.108309, Receive Time: 2025-06-10T15:37:28.142319, Latency: 33.98 ms
+2025-06-10 15:37:28,192 [Agent 3] INFO: Slot Drift: -0.209 ms | Send Time: 2025-06-10T15:37:28.157542, Receive Time: 2025-06-10T15:37:28.192480, Latency: 34.90 ms
+2025-06-10 15:37:28,241 [Agent 3] INFO: Slot Drift: 0.002 ms | Send Time: 2025-06-10T15:37:28.207753, Receive Time: 2025-06-10T15:37:28.241337, Latency: 33.54 ms
+2025-06-10 15:37:28,291 [Agent 3] INFO: Slot Drift: -0.082 ms | Send Time: 2025-06-10T15:37:28.257668, Receive Time: 2025-06-10T15:37:28.290978, Latency: 33.28 ms
+2025-06-10 15:37:28,342 [Agent 3] INFO: Slot Drift: 0.498 ms | Send Time: 2025-06-10T15:37:28.308247, Receive Time: 2025-06-10T15:37:28.342618, Latency: 34.34 ms
+2025-06-10 15:37:28,392 [Agent 3] INFO: Slot Drift: 0.101 ms | Send Time: 2025-06-10T15:37:28.357850, Receive Time: 2025-06-10T15:37:28.392554, Latency: 34.67 ms
+2025-06-10 15:37:28,444 [Agent 3] INFO: Slot Drift: 0.083 ms | Send Time: 2025-06-10T15:37:28.407832, Receive Time: 2025-06-10T15:37:28.444933, Latency: 37.07 ms
+2025-06-10 15:37:28,489 [Agent 3] INFO: Slot Drift: 0.440 ms | Send Time: 2025-06-10T15:37:28.458191, Receive Time: 2025-06-10T15:37:28.489889, Latency: 31.66 ms
+2025-06-10 15:37:28,545 [Agent 3] INFO: Slot Drift: 0.405 ms | Send Time: 2025-06-10T15:37:28.508156, Receive Time: 2025-06-10T15:37:28.545147, Latency: 36.95 ms
+2025-06-10 15:37:28,590 [Agent 3] INFO: Slot Drift: -0.333 ms | Send Time: 2025-06-10T15:37:28.557417, Receive Time: 2025-06-10T15:37:28.590309, Latency: 32.86 ms
+2025-06-10 15:37:28,614 [Agent 3] INFO: FPS - Send: 20, Result: 20
+2025-06-10 15:37:28,644 [Agent 3] INFO: Slot Drift: -0.157 ms | Send Time: 2025-06-10T15:37:28.607597, Receive Time: 2025-06-10T15:37:28.644003, Latency: 36.32 ms
+2025-06-10 15:37:28,682 [Agent 3] INFO: Slot Drift: 0.640 ms | Send Time: 2025-06-10T15:37:28.658394, Receive Time: 2025-06-10T15:37:28.681994, Latency: 23.51 ms
+2025-06-10 15:37:28,745 [Agent 3] INFO: Slot Drift: -0.062 ms | Send Time: 2025-06-10T15:37:28.707692, Receive Time: 2025-06-10T15:37:28.745757, Latency: 37.97 ms
+2025-06-10 15:37:28,781 [Agent 3] INFO: Slot Drift: 0.538 ms | Send Time: 2025-06-10T15:37:28.758294, Receive Time: 2025-06-10T15:37:28.780920, Latency: 22.53 ms
+2025-06-10 15:37:28,844 [Agent 3] INFO: Slot Drift: -0.126 ms | Send Time: 2025-06-10T15:37:28.807631, Receive Time: 2025-06-10T15:37:28.844795, Latency: 37.03 ms
+2025-06-10 15:37:28,896 [Agent 3] INFO: Slot Drift: 0.728 ms | Send Time: 2025-06-10T15:37:28.858485, Receive Time: 2025-06-10T15:37:28.896300, Latency: 37.71 ms
+2025-06-10 15:37:28,940 [Agent 3] INFO: Slot Drift: 0.042 ms | Send Time: 2025-06-10T15:37:28.907793, Receive Time: 2025-06-10T15:37:28.940245, Latency: 32.38 ms
+2025-06-10 15:37:28,989 [Agent 3] INFO: Slot Drift: -0.121 ms | Send Time: 2025-06-10T15:37:28.957629, Receive Time: 2025-06-10T15:37:28.989780, Latency: 32.12 ms
+2025-06-10 15:37:29,040 [Agent 3] INFO: Slot Drift: 0.279 ms | Send Time: 2025-06-10T15:37:29.008028, Receive Time: 2025-06-10T15:37:29.040781, Latency: 32.72 ms
+2025-06-10 15:37:29,080 [Agent 3] INFO: Slot Drift: 0.474 ms | Send Time: 2025-06-10T15:37:29.058226, Receive Time: 2025-06-10T15:37:29.080248, Latency: 21.96 ms
+2025-06-10 15:37:29,141 [Agent 3] INFO: Slot Drift: -0.079 ms | Send Time: 2025-06-10T15:37:29.107673, Receive Time: 2025-06-10T15:37:29.140991, Latency: 33.24 ms
+2025-06-10 15:37:29,180 [Agent 3] INFO: Slot Drift: 0.574 ms | Send Time: 2025-06-10T15:37:29.158324, Receive Time: 2025-06-10T15:37:29.180445, Latency: 22.08 ms
+2025-06-10 15:37:29,241 [Agent 3] INFO: Slot Drift: -0.006 ms | Send Time: 2025-06-10T15:37:29.207746, Receive Time: 2025-06-10T15:37:29.241526, Latency: 33.71 ms
+2025-06-10 15:37:29,280 [Agent 3] INFO: Slot Drift: 0.121 ms | Send Time: 2025-06-10T15:37:29.257871, Receive Time: 2025-06-10T15:37:29.280425, Latency: 22.51 ms
+2025-06-10 15:37:29,337 [Agent 3] INFO: Slot Drift: -0.067 ms | Send Time: 2025-06-10T15:37:29.307683, Receive Time: 2025-06-10T15:37:29.337929, Latency: 30.21 ms
+2025-06-10 15:37:29,391 [Agent 3] INFO: Slot Drift: 0.453 ms | Send Time: 2025-06-10T15:37:29.358203, Receive Time: 2025-06-10T15:37:29.391060, Latency: 32.82 ms
+2025-06-10 15:37:29,430 [Agent 3] INFO: Slot Drift: 0.617 ms | Send Time: 2025-06-10T15:37:29.408367, Receive Time: 2025-06-10T15:37:29.430913, Latency: 22.51 ms
